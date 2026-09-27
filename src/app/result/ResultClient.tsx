@@ -3,7 +3,6 @@
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useEffect, useState } from "react";
-import { Turnstile } from "@/components/Turnstile";
 import { api, ApiRequestError } from "@/lib/api";
 import { courseName, formatElapsed } from "@/lib/courses";
 import type { ResultView } from "@/lib/types";
@@ -21,12 +20,9 @@ export function ResultClient() {
   const [error, setError] = useState<string | null>(null);
 
   const [nickname, setNickname] = useState("");
-  const [token, setToken] = useState<string | null>(null);
   const [submitting, setSubmitting] = useState(false);
   const [formError, setFormError] = useState<string | null>(null);
   const [rank, setRank] = useState<number | null>(null);
-  // 登録失敗時に Turnstile を作り直すためのキー
-  const [widgetKey, setWidgetKey] = useState(0);
 
   useEffect(() => {
     if (!id) {
@@ -40,20 +36,18 @@ export function ResultClient() {
 
   async function register(e: React.FormEvent) {
     e.preventDefault();
-    if (!result || !token || submitting) return;
+    if (!result || submitting) return;
     setSubmitting(true);
     setFormError(null);
     try {
       const r = await api<{ rank: number }>("/api/rankings", {
         method: "POST",
-        body: { sessionId: result.sessionId, nickname, turnstileToken: token },
+        body: { sessionId: result.sessionId, nickname },
       });
       setRank(r.rank);
       setResult({ ...result, ranked: true });
     } catch (err) {
       setFormError(err instanceof ApiRequestError ? err.message : "登録できませんでした。");
-      setToken(null);
-      setWidgetKey((k) => k + 1);
     } finally {
       setSubmitting(false);
     }
@@ -133,11 +127,10 @@ export function ResultClient() {
                 placeholder="例：遺産ハンター"
               />
             </label>
-            <Turnstile key={widgetKey} onToken={setToken} />
             {formError && <p className="text-sm font-bold text-wrong">{formError}</p>}
             <button
               type="submit"
-              disabled={!token || !nickname.trim() || submitting}
+              disabled={!nickname.trim() || submitting}
               className="w-full rounded-xl bg-primary px-4 py-3 font-bold text-on-primary hover:bg-primary-hover disabled:opacity-50"
             >
               {submitting ? "登録中…" : "登録する"}

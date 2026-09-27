@@ -16,7 +16,6 @@ type Env = {
   IMAGES: R2Bucket;
   ASSETS: Fetcher;
   API_LIMITER?: RateLimit;
-  TURNSTILE_SECRET_KEY?: string;
 };
 
 type SessionRow = {
@@ -358,33 +357,15 @@ app.get("/api/rankings", async (c) => {
   return c.json({ courseId, entries });
 });
 
-async function verifyTurnstile(secret: string, token: string, ip: string | undefined): Promise<boolean> {
-  const form = new FormData();
-  form.append("secret", secret);
-  form.append("response", token);
-  if (ip) form.append("remoteip", ip);
-  const res = await fetch("https://challenges.cloudflare.com/turnstile/v0/siteverify", { method: "POST", body: form });
-  const data = (await res.json()) as { success?: boolean };
-  return data.success === true;
-}
-
 // ランキングに登録する（完了済みセッションにつき1回だけ）
 app.post("/api/rankings", async (c) => {
   const db = c.env.DB;
   const body = await c.req
-    .json<{ sessionId?: unknown; nickname?: unknown; turnstileToken?: unknown }>()
+    .json<{ sessionId?: unknown; nickname?: unknown }>()
     .catch(() => ({}) as Record<string, unknown>);
 
   const nick = validateNickname(body.nickname);
   if (!nick.ok) return c.json({ error: nick.error }, 400);
-
-  const secret = c.env.TURNSTILE_SECRET_KEY;
-  if (!secret) return c.json({ error: "ランキング登録は現在停止中です。" }, 503);
-  if (typeof body.turnstileToken !== "string" || body.turnstileToken.length === 0) {
-    return c.json({ error: "ボット確認を完了してください。" }, 400);
-  }
-  const human = await verifyTurnstile(secret, body.turnstileToken, c.req.header("CF-Connecting-IP"));
-  if (!human) return c.json({ error: "ボット確認に失敗しました。もう一度お試しください。" }, 400);
 
   const s = typeof body.sessionId === "string" ? await getSession(db, body.sessionId) : null;
   if (!s) return c.json({ error: "セッションが見つかりません。" }, 404);

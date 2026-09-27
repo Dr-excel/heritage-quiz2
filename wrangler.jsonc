@@ -33,8 +33,5 @@
   // 古いプレイセッションを毎日削除する
   "triggers": { "crons": ["17 18 * * *"] },
 
-  // TURNSTILE_SECRET_KEY は `wrangler secret put` で登録する（ローカルは .dev.vars）
-  "vars": {},
-
   "observability": { "enabled": true }
 }

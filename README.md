@@ -13,7 +13,7 @@
 | 配信 | Workers Static Assets（静的ページ）＋ 同じ Worker の `/api/*`・`/img/*` |
 | データベース | Cloudflare D1 |
 | 画像 | Cloudflare R2（Worker 経由で配信） |
-| ボット対策 | Cloudflare Turnstile（ランキング登録時）、Workers Rate Limiting |
+| 不正対策 | サーバー側での採点、Workers Rate Limiting、ニックネームの NG ワード判定 |
 | 定期処理 | Cron Trigger（放置されたプレイセッションを毎日削除） |
 
 Workers の無料プランで動くよう、画面は静的に出力し、Worker のコードは API と画像配信だけを担当します。静的ファイルの配信は無料プランでもリクエスト数の制限がありません。
@@ -59,7 +59,6 @@ scripts/            写真取得・問題検証・seed 生成・R2 アップロ�
 
 ```bash
 npm install
-cp .dev.vars.example .dev.vars     # Turnstile のテスト用キー
 npm run db:migrate:local
 npm run images:fetch                # Wikimedia Commons から写真を取得（初回のみ、約80MB）
 npm run images:upload:local
@@ -71,7 +70,7 @@ npm run preview                     # http://localhost:8787
 
 ## Cloudflare へのデプロイ
 
-1. Cloudflare にログインする
+1. Cloudflare にログインする（Windows の PowerShell で `npx` がブロックされる場合は `npx.cmd` を使う）
 
    ```bash
    npx wrangler login
@@ -84,19 +83,13 @@ npm run preview                     # http://localhost:8787
    npx wrangler r2 bucket create heritage-quiz2-images
    ```
 
-3. Cloudflare ダッシュボードで Turnstile のウィジェットを作成し（ホスト名は `heritage-quiz2.<サブドメイン>.workers.dev`）、シークレットキーを登録する
-
-   ```bash
-   npx wrangler secret put TURNSTILE_SECRET_KEY
-   ```
-
-4. スキーマ・問題・写真を反映してデプロイする（サイトキーはビルド時に埋め込む）
+3. スキーマ・問題・写真を反映してデプロイする（R2 は事前にダッシュボードで有効化しておく）
 
    ```bash
    npm run db:migrate:remote
    npm run db:seed:remote
    npm run images:upload:remote
-   NEXT_PUBLIC_TURNSTILE_SITE_KEY=<サイトキー> npm run deploy
+   npm run deploy
    ```
 
 ### GitHub Actions からのデプロイ
@@ -104,7 +97,7 @@ npm run preview                     # http://localhost:8787
 `.github/workflows/deploy.yml` は main へのプッシュで D1 の更新と Worker のデプロイを行います。リポジトリに次を設定してください（写真のアップロードは手動で行います）。
 
 - Secrets: `CLOUDFLARE_API_TOKEN`（Workers・D1 の編集権限）、`CLOUDFLARE_ACCOUNT_ID`
-- Variables: `NEXT_PUBLIC_TURNSTILE_SITE_KEY`、`DEPLOY_ENABLED` = `true`
+- Variables: `DEPLOY_ENABLED` = `true`
 
 ## 無料プランでの目安
 
