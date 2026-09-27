@@ -13,12 +13,12 @@
     "run_worker_first": ["/api/*", "/img/*"]
   },
 
-  // database_id は `wrangler d1 create heritage-quiz2-db` の出力で置き換える
+  // database_id は `wrangler d1 create heritage-quiz2-db` の出力
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "heritage-quiz2-db",
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "c8ffdb3b-3921-4904-ae7c-dd1d0d1c2e5c",
       "migrations_dir": "migrations"
     }
   ],
