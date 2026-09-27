@@ -1,0 +1,43 @@
+{
+  "name": "heritage-quiz2",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "dev:api": "wrangler dev --port 8787",
+    "build": "next build && node scripts/fix-export.mjs",
+    "typecheck": "tsc --noEmit && tsc --noEmit -p worker/tsconfig.json",
+    "lint:content": "node scripts/validate-content.mjs",
+    "images:fetch": "node scripts/fetch-images.mjs",
+    "seed:build": "node scripts/build-seed.mjs",
+    "db:migrate:local": "wrangler d1 migrations apply DB --local",
+    "db:migrate:remote": "wrangler d1 migrations apply DB --remote",
+    "db:seed:local": "npm run seed:build && wrangler d1 execute DB --local --file seed/seed.sql",
+    "db:seed:remote": "npm run seed:build && wrangler d1 execute DB --remote --file seed/seed.sql",
+    "images:upload:local": "node scripts/upload-images.mjs --local",
+    "images:upload:remote": "node scripts/upload-images.mjs --remote",
+    "preview": "npm run build && wrangler dev --port 8787",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "dependencies": {
+    "hono": "4.13.9",
+    "next": "16.3.6",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "5.20260927.1",
+    "@tailwindcss/postcss": "4.3.3",
+    "@types/node": "^22",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "^19",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.9.3",
+    "wrangler": "4.141.0"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true,
+    "workerd@1.20260925.1": true
+  }
+}

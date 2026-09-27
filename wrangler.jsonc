@@ -1,0 +1,40 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "heritage-quiz2",
+  "main": "worker/index.ts",
+  "compatibility_date": "2026-09-01",
+  "workers_dev": true,
+
+  // Next.js の静的出力を配信する。/api/* と /img/* だけ Worker のコードを通す
+  "assets": {
+    "directory": "./out",
+    "binding": "ASSETS",
+    "not_found_handling": "404-page",
+    "run_worker_first": ["/api/*", "/img/*"]
+  },
+
+  // database_id は `wrangler d1 create heritage-quiz2-db` の出力で置き換える
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "heritage-quiz2-db",
+      "database_id": "00000000-0000-0000-0000-000000000000",
+      "migrations_dir": "migrations"
+    }
+  ],
+
+  "r2_buckets": [{ "binding": "IMAGES", "bucket_name": "heritage-quiz2-images" }],
+
+  // API の簡易レート制限（1 IP あたり 60 秒に 60 回）
+  "ratelimits": [
+    { "name": "API_LIMITER", "namespace_id": "1001", "simple": { "limit": 60, "period": 60 } }
+  ],
+
+  // 古いプレイセッションを毎日削除する
+  "triggers": { "crons": ["17 18 * * *"] },
+
+  // TURNSTILE_SECRET_KEY は `wrangler secret put` で登録する（ローカルは .dev.vars）
+  "vars": {},
+
+  "observability": { "enabled": true }
+}

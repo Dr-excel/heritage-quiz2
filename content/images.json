@@ -1,0 +1,3332 @@
+{
+  "af-bamiyan": {
+    "key": "sites/af-bamiyan.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Sgt. Ken Scar",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Flickr_-_DVIDSHUB_-_Giant_standing_Buddhas_of_Bamiyan_still_cast_shadows_(Image_2_of_8).jpg",
+    "file": "File:Flickr - DVIDSHUB - Giant standing Buddhas of Bamiyan still cast shadows (Image 2 of 8).jpg"
+  },
+  "ar-glaciares": {
+    "key": "sites/ar-glaciares.jpg",
+    "width": 960,
+    "height": 411,
+    "credit": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Perito_Moreno_Glacier_2023.jpg",
+    "file": "File:Perito Moreno Glacier 2023.jpg"
+  },
+  "ar-iguazu": {
+    "key": "sites/ar-iguazu.jpg",
+    "width": 960,
+    "height": 592,
+    "credit": "Mariordo (Mario Roberto Durán Ortiz)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg",
+    "file": "File:Aerial Foz de Iguaçu 26 Nov 2005.jpg"
+  },
+  "ar-valdes": {
+    "key": "sites/ar-valdes.jpg",
+    "width": 960,
+    "height": 637,
+    "credit": "David",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Magellanic_penguin,_Valdes_Peninsula,_e.jpg",
+    "file": "File:Magellanic penguin, Valdes Peninsula, e.jpg"
+  },
+  "at-hallstatt": {
+    "key": "sites/at-hallstatt.jpg",
+    "width": 960,
+    "height": 663,
+    "credit": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hallstatt_-_Zentrum_.JPG",
+    "file": "File:Hallstatt - Zentrum .JPG"
+  },
+  "at-salzburg": {
+    "key": "sites/at-salzburg.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salzburg_-_Festung_Hohensalzburg.JPG",
+    "file": "File:Salzburg - Festung Hohensalzburg.JPG"
+  },
+  "at-schonbrunn": {
+    "key": "sites/at-schonbrunn.jpg",
+    "width": 960,
+    "height": 656,
+    "credit": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Schloss_Sch%C3%B6nbrunn.JPG",
+    "file": "File:Wien - Schloss Schönbrunn.JPG"
+  },
+  "at-vienna": {
+    "key": "sites/at-vienna.jpg",
+    "width": 960,
+    "height": 1440,
+    "credit": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wien_-_Stephansdom_(1).JPG",
+    "file": "File:Wien - Stephansdom (1).JPG"
+  },
+  "au-bluemountains": {
+    "key": "sites/au-bluemountains.jpg",
+    "width": 960,
+    "height": 1280,
+    "credit": "MrActiniuM",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Sisters_from_echo_point.jpg",
+    "file": "File:Three Sisters from echo point.jpg"
+  },
+  "au-kakadu": {
+    "key": "sites/au-kakadu.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kakadu_(AU),_Kakadu_National_Park,_Nadap_Lookout_--_2019_--_4200.jpg",
+    "file": "File:Kakadu (AU), Kakadu National Park, Nadap Lookout -- 2019 -- 4200.jpg"
+  },
+  "au-kgari": {
+    "key": "sites/au-kgari.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Rhain",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Indian_Head_view_on_Fraser_Island_(May_2016).jpg",
+    "file": "File:Indian Head view on Fraser Island (May 2016).jpg"
+  },
+  "au-opera": {
+    "key": "sites/au-opera.jpg",
+    "width": 960,
+    "height": 589,
+    "credit": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._(21339175489).jpg",
+    "file": "File:Sydney Australia. (21339175489).jpg"
+  },
+  "au-reef": {
+    "key": "sites/au-reef.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "NASA/Kjell Lindgren",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS-45_StoryOfWater,_Great_Barrier_Reef,_Australia.jpg",
+    "file": "File:ISS-45 StoryOfWater, Great Barrier Reef, Australia.jpg"
+  },
+  "au-shark": {
+    "key": "sites/au-shark.jpg",
+    "width": 960,
+    "height": 714,
+    "credit": "Paul Harrison",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stromatolites_in_Sharkbay.jpg",
+    "file": "File:Stromatolites in Sharkbay.jpg"
+  },
+  "au-tasmania": {
+    "key": "sites/au-tasmania.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cradle_Mountain_Behind_Dove_Lake.jpg",
+    "file": "File:Cradle Mountain Behind Dove Lake.jpg"
+  },
+  "au-uluru": {
+    "key": "sites/au-uluru.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Ek2030372672",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+    "file": "File:ULURU.jpg"
+  },
+  "ba-mostar": {
+    "key": "sites/ba-mostar.jpg",
+    "width": 960,
+    "height": 643,
+    "credit": "Ramirez",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mostar_Old_Town_Panorama_2007.jpg",
+    "file": "File:Mostar Old Town Panorama 2007.jpg"
+  },
+  "bd-sundarbans": {
+    "key": "sites/bd-sundarbans.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Shihabur Rahman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Save_the_sundarbans_20.jpg",
+    "file": "File:Save the sundarbans 20.jpg"
+  },
+  "be-bruges": {
+    "key": "sites/be-bruges.jpg",
+    "width": 960,
+    "height": 1440,
+    "credit": "Adiel lo",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brugge_Belfort_HDR.jpg",
+    "file": "File:Brugge Belfort HDR.jpg"
+  },
+  "be-grandplace": {
+    "key": "sites/be-grandplace.jpg",
+    "width": 960,
+    "height": 546,
+    "credit": "Celuici",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand-Place,_Brussels_-_panorama,_June_2018.jpg",
+    "file": "File:Grand-Place, Brussels - panorama, June 2018.jpg"
+  },
+  "be-horta": {
+    "key": "sites/be-horta.jpg",
+    "width": 960,
+    "height": 1516,
+    "credit": "Karl Stas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Victor_Horta_Hotel_Tassel.JPG",
+    "file": "File:Victor Horta Hotel Tassel.JPG"
+  },
+  "bo-potosi": {
+    "key": "sites/bo-potosi.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Mhwater at Dutch Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cerro_ricco.jpg",
+    "file": "File:Cerro ricco.jpg"
+  },
+  "bo-tiwanaku": {
+    "key": "sites/bo-tiwanaku.jpg",
+    "width": 960,
+    "height": 768,
+    "credit": "CLAUDIOLD",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:PUERTA_DEL_SOL_TIWANAKU.jpg",
+    "file": "File:PUERTA DEL SOL TIWANAKU.jpg"
+  },
+  "br-brasilia": {
+    "key": "sites/br-brasilia.jpg",
+    "width": 960,
+    "height": 896,
+    "credit": "Tissiana de A. de Souza",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_Metropolitana_de_Brasilia.jpg",
+    "file": "File:Catedral Metropolitana de Brasilia.jpg"
+  },
+  "br-ouropreto": {
+    "key": "sites/br-ouropreto.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Raquel Mendes Silva",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG",
+    "file": "File:Conjunto arquitetônico e urbanístico de Ouro Preto.JPG"
+  },
+  "br-rio": {
+    "key": "sites/br-rio.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:P%C3%A3o_de_A%C3%A7ucar_-_Sugarloaf_Mountain_-_Zuckerhut_-_2022.jpg",
+    "file": "File:Pão de Açucar - Sugarloaf Mountain - Zuckerhut - 2022.jpg"
+  },
+  "br-salvador": {
+    "key": "sites/br-salvador.jpg",
+    "width": 960,
+    "height": 539,
+    "credit": "Paul R. Burley",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Centro_Hist%C3%B3rico_Salvador_Vista_A%C3%A9rea_2021-0933.jpg",
+    "file": "File:Centro Histórico Salvador Vista Aérea 2021-0933.jpg"
+  },
+  "bw-okavango": {
+    "key": "sites/bw-okavango.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Joachim Huber",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Okavango_Delta,_Botswana1.jpg",
+    "file": "File:Okavango Delta, Botswana1.jpg"
+  },
+  "ca-lanse": {
+    "key": "sites/ca-lanse.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Dylan Kereluk from White Rock, Canada",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Authentic_Viking_recreation.jpg",
+    "file": "File:Authentic Viking recreation.jpg"
+  },
+  "ca-nahanni": {
+    "key": "sites/ca-nahanni.jpg",
+    "width": 960,
+    "height": 1444,
+    "credit": "Josh Steinitz",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Virginia_Falls,_Northwest_Territories.jpg",
+    "file": "File:Virginia Falls, Northwest Territories.jpg"
+  },
+  "ca-quebec": {
+    "key": "sites/ca-quebec.jpg",
+    "width": 960,
+    "height": 625,
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Frontenac_02.jpg",
+    "file": "File:Château Frontenac 02.jpg"
+  },
+  "ca-rideau": {
+    "key": "sites/ca-rideau.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Bobak Ha'Eri",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rideau_Canal.jpg",
+    "file": "File:Rideau Canal.jpg"
+  },
+  "ca-rockies": {
+    "key": "sites/ca-rockies.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Gorgo",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Moraine_Lake_17092005.jpg",
+    "file": "File:Moraine Lake 17092005.jpg"
+  },
+  "cd-virunga": {
+    "key": "sites/cd-virunga.jpg",
+    "width": 960,
+    "height": 1009,
+    "credit": "https://www.flickr.com/photos/deepphoto/ d_proffer",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Susa_group,_mountain_gorilla.jpg",
+    "file": "File:Susa group, mountain gorilla.jpg"
+  },
+  "ch-bern": {
+    "key": "sites/ch-bern.jpg",
+    "width": 960,
+    "height": 1440,
+    "credit": "Mike Lehmann, Mike Switzerland 13:37, 2 July 2006 (UTC)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zytglogge_01.jpg",
+    "file": "File:Zytglogge 01.jpg"
+  },
+  "ch-jungfrau": {
+    "key": "sites/ch-jungfrau.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Robert J Heath",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Switzerland,_Bettmeralp_(19505442736).jpg",
+    "file": "File:Switzerland, Bettmeralp (19505442736).jpg"
+  },
+  "ch-lavaux": {
+    "key": "sites/ch-lavaux.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "Lorenz Poffet",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lavaux_Switzerland.jpg",
+    "file": "File:Lavaux Switzerland.jpg"
+  },
+  "ch-rhaetian": {
+    "key": "sites/ch-rhaetian.jpg",
+    "width": 960,
+    "height": 641,
+    "credit": "Kabelleger / David Gubler ( http://www.bahnbilder.ch )",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RhB_Ge_4-4_III_UNESCO_Weltkulturerbe_auf_Landwasserviadukt.jpg",
+    "file": "File:RhB Ge 4-4 III UNESCO Weltkulturerbe auf Landwasserviadukt.jpg"
+  },
+  "cl-rapanui": {
+    "key": "sites/cl-rapanui.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Ian Sewell",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG",
+    "file": "File:AhuTongariki.JPG"
+  },
+  "cl-valparaiso": {
+    "key": "sites/cl-valparaiso.jpg",
+    "width": 960,
+    "height": 612,
+    "credit": "Julia Sumangil",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Historic_Quarter_of_the_Seaport_City_of_Valpara%C3%ADso_04.jpg",
+    "file": "File:Historic Quarter of the Seaport City of Valparaíso 04.jpg"
+  },
+  "cn-forbidden": {
+    "key": "sites/cn-forbidden.jpg",
+    "width": 960,
+    "height": 480,
+    "credit": "Pixelflake",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg",
+    "file": "File:The Forbidden City - View from Coal Hill.jpg"
+  },
+  "cn-great-wall": {
+    "key": "sites/cn-great-wall.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Severin.stalder",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "file": "File:The Great Wall of China at Jinshanling-edit.jpg"
+  },
+  "cn-hani": {
+    "key": "sites/cn-hani.jpg",
+    "width": 960,
+    "height": 622,
+    "credit": "Jialiang Gao , www.peace-on-earth.org",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Terrace_field_yunnan_china_denoised.jpg",
+    "file": "File:Terrace field yunnan china denoised.jpg"
+  },
+  "cn-huangshan": {
+    "key": "sites/cn-huangshan.jpg",
+    "width": 960,
+    "height": 562,
+    "credit": "Chi King",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huangshan_pic_4.jpg",
+    "file": "File:Huangshan pic 4.jpg"
+  },
+  "cn-jiuzhaigou": {
+    "key": "sites/cn-jiuzhaigou.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_jiuzhaigou_valley_wu_hua_hai_2011b.jpg",
+    "file": "File:1 jiuzhaigou valley wu hua hai 2011b.jpg"
+  },
+  "cn-kaiping": {
+    "key": "sites/cn-kaiping.jpg",
+    "width": 960,
+    "height": 529,
+    "credit": "Stefan Fussan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jinjiangli_0004.jpg",
+    "file": "File:Jinjiangli 0004.jpg"
+  },
+  "cn-lijiang": {
+    "key": "sites/cn-lijiang.jpg",
+    "width": 960,
+    "height": 636,
+    "credit": "Pavel Špindler",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lijiang_-_panoramio_(6).jpg",
+    "file": "File:Lijiang - panoramio (6).jpg"
+  },
+  "cn-longmen": {
+    "key": "sites/cn-longmen.jpg",
+    "width": 960,
+    "height": 603,
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:27427-Luoyang_(49067744628).jpg",
+    "file": "File:27427-Luoyang (49067744628).jpg"
+  },
+  "cn-mogao": {
+    "key": "sites/cn-mogao.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mogao_Caves_(54376969262).jpg",
+    "file": "File:Mogao Caves (54376969262).jpg"
+  },
+  "cn-potala": {
+    "key": "sites/cn-potala.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "Lhasa Government",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Potala_Palace_HQ.jpg",
+    "file": "File:Potala Palace HQ.jpg"
+  },
+  "cn-summer-palace": {
+    "key": "sites/cn-summer-palace.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Longevity_Hill_of_the_Summer_Palace.jpg",
+    "file": "File:Longevity Hill of the Summer Palace.jpg"
+  },
+  "cn-suzhou": {
+    "key": "sites/cn-suzhou.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Zhangzhugang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suzhou_Zhuozheng_Yuan_2015.04.23_08-13-49.jpg",
+    "file": "File:Suzhou Zhuozheng Yuan 2015.04.23 08-13-49.jpg"
+  },
+  "cn-taishan": {
+    "key": "sites/cn-taishan.jpg",
+    "width": 960,
+    "height": 629,
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:50304-Taishan_(49055660366).jpg",
+    "file": "File:50304-Taishan (49055660366).jpg"
+  },
+  "cn-temple-heaven": {
+    "key": "sites/cn-temple-heaven.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "Shujianyang",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_20160323_01.jpg",
+    "file": "File:Temple of Heaven 20160323 01.jpg"
+  },
+  "cn-terracotta": {
+    "key": "sites/cn-terracotta.jpg",
+    "width": 960,
+    "height": 636,
+    "credit": "xiquinhosilva",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+    "file": "File:51714-Terracota-Army.jpg"
+  },
+  "cn-west-lake": {
+    "key": "sites/cn-west-lake.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Takashishin",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:West_Lake,_Hangzhou_2025.jpg",
+    "file": "File:West Lake, Hangzhou 2025.jpg"
+  },
+  "cn-wulingyuan": {
+    "key": "sites/cn-wulingyuan.jpg",
+    "width": 960,
+    "height": 479,
+    "credit": "chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+    "file": "File:1 tianzishan wulingyuan zhangjiajie 2012.jpg"
+  },
+  "co-cartagena": {
+    "key": "sites/co-cartagena.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Sgonzalezb",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Museo_Naval_del_Caribe.JPG",
+    "file": "File:Museo Naval del Caribe.JPG"
+  },
+  "cu-havana": {
+    "key": "sites/cu-havana.jpg",
+    "width": 960,
+    "height": 1440,
+    "credit": "Antonio Careses",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Havana_Paseo_Del_Prado_(107130793).jpeg",
+    "file": "File:Havana Paseo Del Prado (107130793).jpeg"
+  },
+  "cu-trinidad": {
+    "key": "sites/cu-trinidad.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Schwarzenfelder",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trinidad_in_Kuba.jpg",
+    "file": "File:Trinidad in Kuba.jpg"
+  },
+  "cz-krumlov": {
+    "key": "sites/cz-krumlov.jpg",
+    "width": 960,
+    "height": 723,
+    "credit": "DominikCK1999",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blick_auf_das_Stadtzentrum_von_Krumau_(2026).jpg",
+    "file": "File:Blick auf das Stadtzentrum von Krumau (2026).jpg"
+  },
+  "cz-prague": {
+    "key": "sites/cz-prague.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Tadeáš Gregor",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Charles_Bridge_Covid.jpg",
+    "file": "File:Charles Bridge Covid.jpg"
+  },
+  "cz-tugendhat": {
+    "key": "sites/cz-tugendhat.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Petr1987",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vila_Tugendhat_exterior_Dvorak2.JPG",
+    "file": "File:Vila Tugendhat exterior Dvorak2.JPG"
+  },
+  "de-aachen": {
+    "key": "sites/de-aachen.jpg",
+    "width": 960,
+    "height": 686,
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aachen_Germany_Imperial-Cathedral-01.jpg",
+    "file": "File:Aachen Germany Imperial-Cathedral-01.jpg"
+  },
+  "de-bamberg": {
+    "key": "sites/de-bamberg.jpg",
+    "width": 960,
+    "height": 552,
+    "credit": "Reinhard Kirchner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kloster_Michaelsberg_Parkseite.jpg",
+    "file": "File:Kloster Michaelsberg Parkseite.jpg"
+  },
+  "de-bauhaus": {
+    "key": "sites/de-bauhaus.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Lorkan",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bauhaus_3_Chair.jpg",
+    "file": "File:Bauhaus 3 Chair.jpg"
+  },
+  "de-cologne": {
+    "key": "sites/de-cologne.jpg",
+    "width": 960,
+    "height": 1558,
+    "credit": "Raimond Spekking",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg",
+    "file": "File:Kölner Dom - Westfassade 2022 ohne Gerüst-0968 b.jpg"
+  },
+  "de-dresden": {
+    "key": "sites/de-dresden.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Daderot",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Waldschl%C3%B6%C3%9Fchenbr%C3%BCcke_-_Dresden,_Germany_-_DSC09192.JPG",
+    "file": "File:Waldschlößchenbrücke - Dresden, Germany - DSC09192.JPG"
+  },
+  "de-museum": {
+    "key": "sites/de-museum.jpg",
+    "width": 960,
+    "height": 648,
+    "credit": "Thomas Wolf , www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berlin_Museumsinsel_Fernsehturm.jpg",
+    "file": "File:Berlin Museumsinsel Fernsehturm.jpg"
+  },
+  "de-potsdam": {
+    "key": "sites/de-potsdam.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "ernstol",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Schloss_Sanssouci_2014.jpg",
+    "file": "File:Schloss Sanssouci 2014.jpg"
+  },
+  "de-regensburg": {
+    "key": "sites/de-regensburg.jpg",
+    "width": 960,
+    "height": 368,
+    "credit": "Hytrion at German Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Regensburg_-_Steinerne_Bruecke_ohne_Dom.jpg",
+    "file": "File:Regensburg - Steinerne Bruecke ohne Dom.jpg"
+  },
+  "de-rhine": {
+    "key": "sites/de-rhine.jpg",
+    "width": 960,
+    "height": 454,
+    "credit": "imehling",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loreley,_Rhine,_Castle_Katz.jpg",
+    "file": "File:Loreley, Rhine, Castle Katz.jpg"
+  },
+  "de-speicherstadt": {
+    "key": "sites/de-speicherstadt.jpg",
+    "width": 960,
+    "height": 574,
+    "credit": "Thomas Wolf , www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Speicherstadt_abends.jpg",
+    "file": "File:Speicherstadt abends.jpg"
+  },
+  "de-wadden": {
+    "key": "sites/de-wadden.jpg",
+    "width": 960,
+    "height": 618,
+    "credit": "Ralf Roletschek",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-19.jpg",
+    "file": "File:13-09-29-nordfriesisches-wattenmeer-RalfR-19.jpg"
+  },
+  "de-wartburg": {
+    "key": "sites/de-wartburg.jpg",
+    "width": 960,
+    "height": 543,
+    "credit": "Krzysztof Golik",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Outside_view_of_Wartburg_Castle_(4).jpg",
+    "file": "File:Outside view of Wartburg Castle (4).jpg"
+  },
+  "de-wurzburg": {
+    "key": "sites/de-wurzburg.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Unknown author",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2004-06-27-Germany-Wuerzburg-Lutz_Marten-Residenz_side_view_1.jpg",
+    "file": "File:2004-06-27-Germany-Wuerzburg-Lutz Marten-Residenz side view 1.jpg"
+  },
+  "de-zollverein": {
+    "key": "sites/de-zollverein.jpg",
+    "width": 960,
+    "height": 653,
+    "credit": "Thomas Wolf , www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zeche_Zollverein_abends.jpg",
+    "file": "File:Zeche Zollverein abends.jpg"
+  },
+  "dk-kronborg": {
+    "key": "sites/dk-kronborg.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "ArildV",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kronborg_April_2026_10.jpg",
+    "file": "File:Kronborg April 2026 10.jpg"
+  },
+  "dz-tassili": {
+    "key": "sites/dz-tassili.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "Gruban",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tassili_rocks.jpg",
+    "file": "File:Tassili rocks.jpg"
+  },
+  "ec-galapagos": {
+    "key": "sites/ec-galapagos.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "RAF-YYC from Calgary, Canada",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amblyrhynchus_cristatus_(3838137696).jpg",
+    "file": "File:Amblyrhynchus cristatus (3838137696).jpg"
+  },
+  "ec-quito": {
+    "key": "sites/ec-quito.jpg",
+    "width": 960,
+    "height": 468,
+    "credit": "Asamblea Nacional del Ecuador",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:FACHADA_ASAMBLEA_NACIONAL._QUITO,_20_DE_FEBRERO_2020._01.jpg",
+    "file": "File:FACHADA ASAMBLEA NACIONAL. QUITO, 20 DE FEBRERO 2020. 01.jpg"
+  },
+  "ee-tallinn": {
+    "key": "sites/ee-tallinn.jpg",
+    "width": 960,
+    "height": 645,
+    "credit": "Ben Bender",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Old_Town_of_Tallinn,_Tallinn,_Estonia_-_panoramio_(58).jpg",
+    "file": "File:Old Town of Tallinn, Tallinn, Estonia - panoramio (58).jpg"
+  },
+  "eg-cairo": {
+    "key": "sites/eg-cairo.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Ahmed Ragheb 97",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%AC%D8%A7%D9%85%D8%B9_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A.JPG",
+    "file": "File:جامع محمد علي.JPG"
+  },
+  "eg-nubia": {
+    "key": "sites/eg-nubia.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "youssef_alam",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ramsis,_Aswan_Governorate,_Egypt_-_panoramio.jpg",
+    "file": "File:Ramsis, Aswan Governorate, Egypt - panoramio.jpg"
+  },
+  "eg-pyramids": {
+    "key": "sites/eg-pyramids.jpg",
+    "width": 960,
+    "height": 400,
+    "credit": "KennyOMG",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "file": "File:Pyramids of the Giza Necropolis.jpg"
+  },
+  "eg-thebes": {
+    "key": "sites/eg-thebes.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "René Hourdry",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_de_Louxor_68.jpg",
+    "file": "File:Temple de Louxor 68.jpg"
+  },
+  "eg-wadihitan": {
+    "key": "sites/eg-wadihitan.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "AhmedMosaad",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_whales_fossils_at_Wadi_El-Hitan,_Egypt_2017.jpg",
+    "file": "File:The whales fossils at Wadi El-Hitan, Egypt 2017.jpg"
+  },
+  "es-alhambra": {
+    "key": "sites/es-alhambra.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "Jebulon",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg",
+    "file": "File:Dawn Charles V Palace Alhambra Granada Andalusia Spain.jpg"
+  },
+  "es-altamira": {
+    "key": "sites/es-altamira.jpg",
+    "width": 960,
+    "height": 641,
+    "credit": "Museo de Altamira y D. Rodríguez",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:9_Bisonte_Magdaleniense_pol%C3%ADcromo.jpg",
+    "file": "File:9 Bisonte Magdaleniense polícromo.jpg"
+  },
+  "es-cordoba": {
+    "key": "sites/es-cordoba.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Toni Castillo Quero",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mezquita_de_C%C3%B3rdoba_desde_el_aire_(C%C3%B3rdoba,_Espa%C3%B1a).jpg",
+    "file": "File:Mezquita de Córdoba desde el aire (Córdoba, España).jpg"
+  },
+  "es-donana": {
+    "key": "sites/es-donana.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Unknown author",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wetlands_in_Donana.jpg",
+    "file": "File:Wetlands in Donana.jpg"
+  },
+  "es-gaudi": {
+    "key": "sites/es-gaudi.jpg",
+    "width": 960,
+    "height": 1397,
+    "credit": "Canaan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+    "file": "File:SF maig 2 cropped.jpg"
+  },
+  "es-santiago": {
+    "key": "sites/es-santiago.jpg",
+    "width": 960,
+    "height": 1200,
+    "credit": "Fernando",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santiago_cathedral_2021.jpg",
+    "file": "File:Santiago cathedral 2021.jpg"
+  },
+  "es-segovia": {
+    "key": "sites/es-segovia.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aqueduct_of_Segovia_08.jpg",
+    "file": "File:Aqueduct of Segovia 08.jpg"
+  },
+  "es-seville": {
+    "key": "sites/es-seville.jpg",
+    "width": 960,
+    "height": 716,
+    "credit": "Ingo Mehling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sevilla_Cathedral_-_Southeast.jpg",
+    "file": "File:Sevilla Cathedral - Southeast.jpg"
+  },
+  "es-teide": {
+    "key": "sites/es-teide.jpg",
+    "width": 960,
+    "height": 571,
+    "credit": "Thomas Wolf , www.foto-tw.de",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roque_Cinchado_und_Teide.jpg",
+    "file": "File:Roque Cinchado und Teide.jpg"
+  },
+  "es-toledo": {
+    "key": "sites/es-toledo.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Dmitry Dzhus from London",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Toledo_(37737041515).jpg",
+    "file": "File:Toledo (37737041515).jpg"
+  },
+  "es-vizcaya": {
+    "key": "sites/es-vizcaya.jpg",
+    "width": 960,
+    "height": 398,
+    "credit": "Javier Mediavilla Ezquibela Esta imagen tiene una licencia libre (que puedes ver abajo), pero si la usas fuera de los…",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zubia_jun.jpg",
+    "file": "File:Zubia jun.jpg"
+  },
+  "et-aksum": {
+    "key": "sites/et-aksum.jpg",
+    "width": 960,
+    "height": 1280,
+    "credit": "Ondřej Žváček",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rome_Stele.jpg",
+    "file": "File:Rome Stele.jpg"
+  },
+  "et-lalibela": {
+    "key": "sites/et-lalibela.jpg",
+    "width": 960,
+    "height": 832,
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lalibela,_san_giorgio,_esterno_24.jpg",
+    "file": "File:Lalibela, san giorgio, esterno 24.jpg"
+  },
+  "et-simien": {
+    "key": "sites/et-simien.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Florian Fell",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bwahit,_view_onto_Kidis_Yared_4453m.JPG",
+    "file": "File:Bwahit, view onto Kidis Yared 4453m.JPG"
+  },
+  "fi-suomenlinna": {
+    "key": "sites/fi-suomenlinna.jpg",
+    "width": 960,
+    "height": 634,
+    "credit": "Migro",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suomenlinna_aerial.JPG",
+    "file": "File:Suomenlinna aerial.JPG"
+  },
+  "fm-nanmadol": {
+    "key": "sites/fm-nanmadol.jpg",
+    "width": 960,
+    "height": 629,
+    "credit": "NOAA",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nan_madol.jpg",
+    "file": "File:Nan madol.jpg"
+  },
+  "fr-amiens": {
+    "key": "sites/fr-amiens.jpg",
+    "width": 960,
+    "height": 1473,
+    "credit": "Jean-Pol GRANDMONT",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:0_Amiens_-_Cath%C3%A9drale_Notre-Dame_(1).JPG",
+    "file": "File:0 Amiens - Cathédrale Notre-Dame (1).JPG"
+  },
+  "fr-avignon": {
+    "key": "sites/fr-avignon.jpg",
+    "width": 960,
+    "height": 407,
+    "credit": "François de Dijon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Avignon_Palais_des_Papes_2013.jpg",
+    "file": "File:Avignon Palais des Papes 2013.jpg"
+  },
+  "fr-bordeaux": {
+    "key": "sites/fr-bordeaux.jpg",
+    "width": 960,
+    "height": 642,
+    "credit": "Phillip Maiwald ( Nikopol )",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bordeaux_place_de_la_bourse_with_tram.JPG",
+    "file": "File:Bordeaux place de la bourse with tram.JPG"
+  },
+  "fr-carcassonne": {
+    "key": "sites/fr-carcassonne.jpg",
+    "width": 960,
+    "height": 566,
+    "credit": "Chensiyuan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_carcassonne_aerial_2016.jpg",
+    "file": "File:1 carcassonne aerial 2016.jpg"
+  },
+  "fr-chartres": {
+    "key": "sites/fr-chartres.jpg",
+    "width": 960,
+    "height": 733,
+    "credit": "Olvr",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Notre_Dame_de_Chartres.jpg",
+    "file": "File:Notre Dame de Chartres.jpg"
+  },
+  "fr-lehavre": {
+    "key": "sites/fr-lehavre.jpg",
+    "width": 960,
+    "height": 1440,
+    "credit": "Hencetalk ( talk ) ( Uploads )",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Churchtowerinverted.jpg",
+    "file": "File:Churchtowerinverted.jpg"
+  },
+  "fr-loire": {
+    "key": "sites/fr-loire.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Carsten Steger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Ch%C3%A2teau_de_Chambord_(view_from_the_southeast).jpg",
+    "file": "File:Aerial image of Château de Chambord (view from the southeast).jpg"
+  },
+  "fr-mont": {
+    "key": "sites/fr-mont.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "Amaustan",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg",
+    "file": "File:Mont-Saint-Michel vu du ciel.jpg"
+  },
+  "fr-paris": {
+    "key": "sites/fr-paris.jpg",
+    "width": 960,
+    "height": 634,
+    "credit": "Ali Sabbagh",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris,_4_October_2017.jpg",
+    "file": "File:Notre-Dame de Paris, 4 October 2017.jpg"
+  },
+  "fr-pontdugard": {
+    "key": "sites/fr-pontdugard.jpg",
+    "width": 960,
+    "height": 371,
+    "credit": "Benh LIEU SONG ( Flickr )",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+    "file": "File:Pont du Gard BLS.jpg"
+  },
+  "fr-reims": {
+    "key": "sites/fr-reims.jpg",
+    "width": 960,
+    "height": 1493,
+    "credit": "Gennadii Saus i Segura",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Exterior_view_of_the_west_facade_of_Notre-Dame_Cathedral_in_Reims.jpg",
+    "file": "File:Exterior view of the west facade of Notre-Dame Cathedral in Reims.jpg"
+  },
+  "fr-strasbourg": {
+    "key": "sites/fr-strasbourg.jpg",
+    "width": 960,
+    "height": 1227,
+    "credit": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Strasbourg_Cathedral_Exterior_-_Diliff.jpg",
+    "file": "File:Strasbourg Cathedral Exterior - Diliff.jpg"
+  },
+  "fr-versailles": {
+    "key": "sites/fr-versailles.jpg",
+    "width": 960,
+    "height": 587,
+    "credit": "ToucanWings",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vue_a%C3%A9rienne_du_domaine_de_Versailles_par_ToucanWings_-_Creative_Commons_By_Sa_3.0_-_081_(cropped).jpg",
+    "file": "File:Vue aérienne du domaine de Versailles par ToucanWings - Creative Commons By Sa 3.0 - 081 (cropped).jpg"
+  },
+  "fr-vezere": {
+    "key": "sites/fr-vezere.jpg",
+    "width": 960,
+    "height": 629,
+    "credit": "EU",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+    "file": "File:Lascaux painting.jpg"
+  },
+  "gb-bath": {
+    "key": "sites/gb-bath.jpg",
+    "width": 960,
+    "height": 836,
+    "credit": "Diliff",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Roman_Baths_in_Bath_Spa,_England_-_July_2006.jpg",
+    "file": "File:Roman Baths in Bath Spa, England - July 2006.jpg"
+  },
+  "gb-blenheim": {
+    "key": "sites/gb-blenheim.jpg",
+    "width": 960,
+    "height": 563,
+    "credit": "Blenheim Palace",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blenheim_Palace_North_Gate_2014.jpg",
+    "file": "File:Blenheim Palace North Gate 2014.jpg"
+  },
+  "gb-canterbury": {
+    "key": "sites/gb-canterbury.jpg",
+    "width": 960,
+    "height": 1149,
+    "credit": "Tony Hisgett from Birmingham, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canterbury_Cathedral_evening_(4902497028).jpg",
+    "file": "File:Canterbury Cathedral evening (4902497028).jpg"
+  },
+  "gb-edinburgh": {
+    "key": "sites/gb-edinburgh.jpg",
+    "width": 960,
+    "height": 619,
+    "credit": "Enric",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_of_Edinburgh_-_Edinburgh_Castle_-_20140421004403.jpg",
+    "file": "File:City of Edinburgh - Edinburgh Castle - 20140421004403.jpg"
+  },
+  "gb-giants": {
+    "key": "sites/gb-giants.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "code poet on flickr.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Causeway-code_poet-4.jpg",
+    "file": "File:Causeway-code poet-4.jpg"
+  },
+  "gb-greenwich": {
+    "key": "sites/gb-greenwich.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_the_Royal_Observatory_Greenwich_from_One_Tree_Hill_in_Greenwich_Park,_London,_20260719_0940_4508.jpg",
+    "file": "File:View of the Royal Observatory Greenwich from One Tree Hill in Greenwich Park, London, 20260719 0940 4508.jpg"
+  },
+  "gb-hadrian": {
+    "key": "sites/gb-hadrian.jpg",
+    "width": 960,
+    "height": 517,
+    "credit": "Gordon Leggett",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018-06-07_Sycamore_Gap_Tree_(Acer_pseudoplatanus),_next_to_Hadrian%E2%80%99s_Wall_UK.jpg",
+    "file": "File:2018-06-07 Sycamore Gap Tree (Acer pseudoplatanus), next to Hadrian’s Wall UK.jpg"
+  },
+  "gb-ironbridge": {
+    "key": "sites/gb-ironbridge.jpg",
+    "width": 960,
+    "height": 488,
+    "credit": "Tk420",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iron_Bridge_east_side_in_February_2019_(cropped).jpg",
+    "file": "File:Iron Bridge east side in February 2019 (cropped).jpg"
+  },
+  "gb-kew": {
+    "key": "sites/gb-kew.jpg",
+    "width": 960,
+    "height": 543,
+    "credit": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kew_Gardens_Palm_House,_London_-_July_2009.jpg",
+    "file": "File:Kew Gardens Palm House, London - July 2009.jpg"
+  },
+  "gb-lake": {
+    "key": "sites/gb-lake.jpg",
+    "width": 960,
+    "height": 484,
+    "credit": "User:Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Derwent_Water,_Lake_District,_Cumbria_-_June_2009.jpg",
+    "file": "File:Derwent Water, Lake District, Cumbria - June 2009.jpg"
+  },
+  "gb-liverpool": {
+    "key": "sites/gb-liverpool.jpg",
+    "width": 960,
+    "height": 949,
+    "credit": "Unknown author",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Liver_Building.jpg",
+    "file": "File:Royal Liver Building.jpg"
+  },
+  "gb-stonehenge": {
+    "key": "sites/gb-stonehenge.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "garethwiscombe",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "file": "File:Stonehenge2007 07 30.jpg"
+  },
+  "gb-tower": {
+    "key": "sites/gb-tower.jpg",
+    "width": 960,
+    "height": 623,
+    "credit": "[Duncan] from Nottingham, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_of_London_from_the_Shard_(8515883950).jpg",
+    "file": "File:Tower of London from the Shard (8515883950).jpg"
+  },
+  "gb-westminster": {
+    "key": "sites/gb-westminster.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "ThatsTheBoss",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_as_seen_from_Westminster_Bridge.jpg",
+    "file": "File:Palace of Westminster as seen from Westminster Bridge.jpg"
+  },
+  "gr-acropolis": {
+    "key": "sites/gr-acropolis.jpg",
+    "width": 960,
+    "height": 675,
+    "credit": "Steve Swayne",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg",
+    "file": "File:The Parthenon in Athens.jpg"
+  },
+  "gr-athos": {
+    "key": "sites/gr-athos.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Dave Proffer",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt._Athos_(3939757657).jpg",
+    "file": "File:Mt. Athos (3939757657).jpg"
+  },
+  "gr-bassae": {
+    "key": "sites/gr-bassae.jpg",
+    "width": 960,
+    "height": 512,
+    "credit": "Mark Landon (photographed in 1982; digitized in 2021)",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Apollo_Bassae_1982.jpg",
+    "file": "File:Temple of Apollo Bassae 1982.jpg"
+  },
+  "gr-delphi": {
+    "key": "sites/gr-delphi.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "tamara semina",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delphi,_Greece_-_panoramio.jpg",
+    "file": "File:Delphi, Greece - panoramio.jpg"
+  },
+  "gr-meteora": {
+    "key": "sites/gr-meteora.jpg",
+    "width": 960,
+    "height": 641,
+    "credit": "Stathis floros",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Meteora%27s_monastery_2.jpg",
+    "file": "File:Meteora's monastery 2.jpg"
+  },
+  "gr-olympia": {
+    "key": "sites/gr-olympia.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "John Karakatsanis from Athens, Greece",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ancient_Olympia,_Greece2.jpg",
+    "file": "File:Ancient Olympia, Greece2.jpg"
+  },
+  "gr-rhodes": {
+    "key": "sites/gr-rhodes.jpg",
+    "width": 960,
+    "height": 1206,
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palace_of_the_Grand_Masters_of_Rhodes_-_Window.jpg",
+    "file": "File:Palace of the Grand Masters of Rhodes - Window.jpg"
+  },
+  "gt-antigua": {
+    "key": "sites/gt-antigua.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Juan Francisco",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Antigua_-_Arco.jpg",
+    "file": "File:Antigua - Arco.jpg"
+  },
+  "gt-tikal": {
+    "key": "sites/gt-tikal.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Mundo Maya",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tikal_3.jpg",
+    "file": "File:Tikal 3.jpg"
+  },
+  "hn-copan": {
+    "key": "sites/hn-copan.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "Adalberto Hernandez Vega from Copan Ruinas, Honduras",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Copan_sculpture.jpg",
+    "file": "File:Copan sculpture.jpg"
+  },
+  "hr-dubrovnik": {
+    "key": "sites/hr-dubrovnik.jpg",
+    "width": 960,
+    "height": 596,
+    "credit": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg",
+    "file": "File:The walls of the fortress and View of the old city. panorama.jpg"
+  },
+  "hr-plitvice": {
+    "key": "sites/hr-plitvice.jpg",
+    "width": 960,
+    "height": 1363,
+    "credit": "Zysko serhii",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_in_Plitvice_Lakes_National_Park.jpg",
+    "file": "File:View in Plitvice Lakes National Park.jpg"
+  },
+  "hr-split": {
+    "key": "sites/hr-split.jpg",
+    "width": 960,
+    "height": 1440,
+    "credit": "Dennis G. Jarvis",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Croatia-01239_-_The_Peristil_(9551533404).jpg",
+    "file": "File:Croatia-01239 - The Peristil (9551533404).jpg"
+  },
+  "hu-budapest": {
+    "key": "sites/hu-budapest.jpg",
+    "width": 960,
+    "height": 538,
+    "credit": "Kilyann Le Hen",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hungarian_Parliament_Building_from_across_the_Danube,_2025-01-11.jpg",
+    "file": "File:Hungarian Parliament Building from across the Danube, 2025-01-11.jpg"
+  },
+  "id-bali": {
+    "key": "sites/id-bali.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "LukeTriton",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pura_Ulun_Danu_Bratan,_2022.jpg",
+    "file": "File:Pura Ulun Danu Bratan, 2022.jpg"
+  },
+  "id-borobudur": {
+    "key": "sites/id-borobudur.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Heri nugroho",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pradaksina.jpg",
+    "file": "File:Pradaksina.jpg"
+  },
+  "id-komodo": {
+    "key": "sites/id-komodo.jpg",
+    "width": 960,
+    "height": 686,
+    "credit": "James Jolokia ( james1203 )",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:202306_Varanus_komodoensis.jpg",
+    "file": "File:202306 Varanus komodoensis.jpg"
+  },
+  "id-prambanan": {
+    "key": "sites/id-prambanan.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Christopher Michel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prambanan_Temple_Yogyakarta_Indonesia.jpg",
+    "file": "File:Prambanan Temple Yogyakarta Indonesia.jpg"
+  },
+  "ie-skellig": {
+    "key": "sites/ie-skellig.jpg",
+    "width": 960,
+    "height": 625,
+    "credit": "Jerzy Strzelecki",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Skellig_Michael03(js).jpg",
+    "file": "File:Skellig Michael03(js).jpg"
+  },
+  "il-jerusalem": {
+    "key": "sites/il-jerusalem.jpg",
+    "width": 960,
+    "height": 648,
+    "credit": "Ludvig14",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jerusalem_DomeoftheRock_J65_(cropped).JPG",
+    "file": "File:Jerusalem DomeoftheRock J65 (cropped).JPG"
+  },
+  "il-masada": {
+    "key": "sites/il-masada.jpg",
+    "width": 960,
+    "height": 1278,
+    "credit": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Israel-2013-Aerial_21-Masada.jpg",
+    "file": "File:Israel-2013-Aerial 21-Masada.jpg"
+  },
+  "in-agra": {
+    "key": "sites/in-agra.jpg",
+    "width": 960,
+    "height": 1151,
+    "credit": "Jakub Hałun",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20191204_Diwan-i-Khas,_Agra_Fort_0945_6642.jpg",
+    "file": "File:20191204 Diwan-i-Khas, Agra Fort 0945 6642.jpg"
+  },
+  "in-ajanta": {
+    "key": "sites/in-ajanta.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "No machine-readable author provided. Soman assumed (based on copyright claims).",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ajanta_(63).jpg",
+    "file": "File:Ajanta (63).jpg"
+  },
+  "in-cst": {
+    "key": "sites/in-cst.jpg",
+    "width": 960,
+    "height": 629,
+    "credit": "Sailko",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chhatrapati_shivaji_terminus,_esterno_01.jpg",
+    "file": "File:Chhatrapati shivaji terminus, esterno 01.jpg"
+  },
+  "in-ellora": {
+    "key": "sites/in-ellora.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Vyacheslav Argenberg",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ellora_Caves,_India,_Kailasanatha_Temple_2.jpg",
+    "file": "File:Ellora Caves, India, Kailasanatha Temple 2.jpg"
+  },
+  "in-fatehpur": {
+    "key": "sites/in-fatehpur.jpg",
+    "width": 960,
+    "height": 829,
+    "credit": "Marcin Białek",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fatehput_Sikiri_Buland_Darwaza_gate_2010.jpg",
+    "file": "File:Fatehput Sikiri Buland Darwaza gate 2010.jpg"
+  },
+  "in-hampi": {
+    "key": "sites/in-hampi.jpg",
+    "width": 960,
+    "height": 480,
+    "credit": "iMahesh",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wide_angle_of_Galigopuram_of_Virupaksha_Temple,_Hampi_(04)_(cropped).jpg",
+    "file": "File:Wide angle of Galigopuram of Virupaksha Temple, Hampi (04) (cropped).jpg"
+  },
+  "in-jantar": {
+    "key": "sites/in-jantar.jpg",
+    "width": 960,
+    "height": 604,
+    "credit": "Knowledge Seeker",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jantar_Mantar_at_Jaipur.jpg",
+    "file": "File:Jantar Mantar at Jaipur.jpg"
+  },
+  "in-khajuraho": {
+    "key": "sites/in-khajuraho.jpg",
+    "width": 960,
+    "height": 670,
+    "credit": "PLBechly",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:1_Khajuraho.jpg",
+    "file": "File:1 Khajuraho.jpg"
+  },
+  "in-konark": {
+    "key": "sites/in-konark.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Subham9423",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Konarka_Temple.jpg",
+    "file": "File:Konarka Temple.jpg"
+  },
+  "in-mahabodhi": {
+    "key": "sites/in-mahabodhi.jpg",
+    "width": 960,
+    "height": 1280,
+    "credit": "Bpilgrim",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mahabodhitemple.jpg",
+    "file": "File:Mahabodhitemple.jpg"
+  },
+  "in-qutb": {
+    "key": "sites/in-qutb.jpg",
+    "width": 960,
+    "height": 1451,
+    "credit": "Wasir kasab",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qutb_Minar_2022.jpg",
+    "file": "File:Qutb Minar 2022.jpg"
+  },
+  "in-railways": {
+    "key": "sites/in-railways.jpg",
+    "width": 960,
+    "height": 1485,
+    "credit": "Syed Sajidul Islam",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Darjeeling_Himalayan_Railway,toy_train_(8).jpg",
+    "file": "File:Darjeeling Himalayan Railway,toy train (8).jpg"
+  },
+  "in-sanchi": {
+    "key": "sites/in-sanchi.jpg",
+    "width": 960,
+    "height": 1445,
+    "credit": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4398.JPG",
+    "file": "File:East Gateway - Stupa 1 - Sanchi Hill 2013-02-21 4398.JPG"
+  },
+  "in-taj": {
+    "key": "sites/in-taj.jpg",
+    "width": 960,
+    "height": 631,
+    "credit": "Yann ; edited by Jim Carter",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+    "file": "File:Taj Mahal (Edited).jpeg"
+  },
+  "iq-babylon": {
+    "key": "sites/iq-babylon.jpg",
+    "width": 960,
+    "height": 597,
+    "credit": "LBM1948",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Berl%C3%ADn,_Museo_de_P%C3%A9rgamo_05.jpg",
+    "file": "File:Berlín, Museo de Pérgamo 05.jpg"
+  },
+  "iq-hatra": {
+    "key": "sites/iq-hatra.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Husseinal-mauktar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%A7%D8%AB%D8%A7%D8%B1_%D8%A7%D9%84%D8%AD%D8%B6%D8%B1.jpg",
+    "file": "File:اثار الحضر.jpg"
+  },
+  "ir-bam": {
+    "key": "sites/ir-bam.jpg",
+    "width": 960,
+    "height": 480,
+    "credit": "Safa.daneshvar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:010213-Kerman-IMG_0371-2.jpg",
+    "file": "File:010213-Kerman-IMG 0371-2.jpg"
+  },
+  "ir-isfahan": {
+    "key": "sites/ir-isfahan.jpg",
+    "width": 960,
+    "height": 641,
+    "credit": "احمد جمالی مقدم",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naqsh-i_Jahan_Square,_Jan._2018.jpg",
+    "file": "File:Naqsh-i Jahan Square, Jan. 2018.jpg"
+  },
+  "ir-persepolis": {
+    "key": "sites/ir-persepolis.jpg",
+    "width": 960,
+    "height": 636,
+    "credit": "Laurens R. Krol",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2018-09-21_Iran,_Persepolis,_Tachara_(from_the_southeast).jpg",
+    "file": "File:2018-09-21 Iran, Persepolis, Tachara (from the southeast).jpg"
+  },
+  "is-surtsey": {
+    "key": "sites/is-surtsey.jpg",
+    "width": 960,
+    "height": 637,
+    "credit": "Howell Williams, NOAA",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Surtsey_eruption_1963.jpg",
+    "file": "File:Surtsey eruption 1963.jpg"
+  },
+  "is-thingvellir": {
+    "key": "sites/is-thingvellir.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Ivan Sabljak",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%9Eingvellir_from_the_information_centre.JPG",
+    "file": "File:Þingvellir from the information centre.JPG"
+  },
+  "it-alberobello": {
+    "key": "sites/it-alberobello.jpg",
+    "width": 960,
+    "height": 646,
+    "credit": "Berthold Werner",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Alberobello_BW_2016-10-16_13-43-03.jpg",
+    "file": "File:Alberobello BW 2016-10-16 13-43-03.jpg"
+  },
+  "it-amalfi": {
+    "key": "sites/it-amalfi.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Bruno Rijsman",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amalfi_Coast_(Italy,_October_2020)_-_75_(50558355441).jpg",
+    "file": "File:Amalfi Coast (Italy, October 2020) - 75 (50558355441).jpg"
+  },
+  "it-cinqueterre": {
+    "key": "sites/it-cinqueterre.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Bruno Rijsman",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cinque_Terre_(Italy,_October_2020)_-_24_(50543603956).jpg",
+    "file": "File:Cinque Terre (Italy, October 2020) - 24 (50543603956).jpg"
+  },
+  "it-dolomites": {
+    "key": "sites/it-dolomites.jpg",
+    "width": 960,
+    "height": 549,
+    "credit": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2019_Tre_Cime.jpg",
+    "file": "File:2019 Tre Cime.jpg"
+  },
+  "it-etna": {
+    "key": "sites/it-etna.jpg",
+    "width": 960,
+    "height": 391,
+    "credit": "BenAveling",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt_Etna_and_Catania1.jpg",
+    "file": "File:Mt Etna and Catania1.jpg"
+  },
+  "it-florence": {
+    "key": "sites/it-florence.jpg",
+    "width": 960,
+    "height": 643,
+    "credit": "Gary Campbell-Hall",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg",
+    "file": "File:Cattedrale di Santa Maria del Fiore – Il Duomo di Firenze.jpg"
+  },
+  "it-lastsupper": {
+    "key": "sites/it-lastsupper.jpg",
+    "width": 960,
+    "height": 518,
+    "credit": "Marcin Białek",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Santa_Maria_delle_Grazie_Milan_2013.jpg",
+    "file": "File:Santa Maria delle Grazie Milan 2013.jpg"
+  },
+  "it-matera": {
+    "key": "sites/it-matera.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Bönisch",
+    "license": "CC BY-SA 2.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Matera_boenisch_nov_2005.jpg",
+    "file": "File:Matera boenisch nov 2005.jpg"
+  },
+  "it-pisa": {
+    "key": "sites/it-pisa.jpg",
+    "width": 960,
+    "height": 1339,
+    "credit": "Arne Müseler",
+    "license": "CC BY-SA 3.0 de",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg",
+    "file": "File:Italy - Pisa - Leaning Tower.jpg"
+  },
+  "it-pompeii": {
+    "key": "sites/it-pompeii.jpg",
+    "width": 960,
+    "height": 591,
+    "credit": "Carsten Steger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "file": "File:Aerial image of Pompeii and Mount Vesuvius (view from the southeast).jpg"
+  },
+  "it-rome": {
+    "key": "sites/it-rome.jpg",
+    "width": 960,
+    "height": 673,
+    "credit": "FeaturedPics",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "file": "File:Colosseo 2020.jpg"
+  },
+  "it-siena": {
+    "key": "sites/it-siena.jpg",
+    "width": 960,
+    "height": 569,
+    "credit": "Ricardo André Frantz ( User:Tetraktys )",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Siena5.jpg",
+    "file": "File:Siena5.jpg"
+  },
+  "it-valcamonica": {
+    "key": "sites/it-valcamonica.jpg",
+    "width": 960,
+    "height": 774,
+    "credit": "Luca Giarelli",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scena_di_duello_R6_-_Foppe_-_Nadro_(Foto_Luca_Giarelli).jpg",
+    "file": "File:Scena di duello R6 - Foppe - Nadro (Foto Luca Giarelli).jpg"
+  },
+  "it-venice": {
+    "key": "sites/it-venice.jpg",
+    "width": 960,
+    "height": 525,
+    "credit": "Didier Descouens",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_the_Grand_Canal_from_Rialto_to_Ca%27Foscari.jpg",
+    "file": "File:View of the Grand Canal from Rialto to Ca'Foscari.jpg"
+  },
+  "jo-petra": {
+    "key": "sites/jo-petra.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Azurfrog",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG",
+    "file": "File:Al Deir Petra.JPG"
+  },
+  "jo-wadirum": {
+    "key": "sites/jo-wadirum.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Daniel Case",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mountain_in_Wadi_Rum,_Jordan.jpg",
+    "file": "File:Mountain in Wadi Rum, Jordan.jpg"
+  },
+  "jp-amami": {
+    "key": "sites/jp-amami.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Anagounagi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mangrove_swamp,_Iriomote_Island,_Okinawa,_Japan.jpg",
+    "file": "File:Mangrove swamp, Iriomote Island, Okinawa, Japan.jpg"
+  },
+  "jp-corbusier": {
+    "key": "sites/jp-corbusier.jpg",
+    "width": 960,
+    "height": 643,
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_museum_of_western_art05s3200.jpg",
+    "file": "File:National museum of western art05s3200.jpg"
+  },
+  "jp-fuji": {
+    "key": "sites/jp-fuji.jpg",
+    "width": 960,
+    "height": 469,
+    "credit": "Suicasmo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg",
+    "file": "File:View of Mount Fuji from Ōwakudani 20211202.jpg"
+  },
+  "jp-genbaku": {
+    "key": "sites/jp-genbaku.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Oilstreet",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Genbaku_Dome04-r.JPG",
+    "file": "File:Genbaku Dome04-r.JPG"
+  },
+  "jp-himeji": {
+    "key": "sites/jp-himeji.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Nikos Kitsakis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Himeji_castle_in_may_2015.jpg",
+    "file": "File:Himeji castle in may 2015.jpg"
+  },
+  "jp-hiraizumi": {
+    "key": "sites/jp-hiraizumi.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:230728_Chusonji_Hiraizumi_Iwate_pref_Japan01s3.jpg",
+    "file": "File:230728 Chusonji Hiraizumi Iwate pref Japan01s3.jpg"
+  },
+  "jp-horyuji": {
+    "key": "sites/jp-horyuji.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Horyu-ji11s3200.jpg",
+    "file": "File:Horyu-ji11s3200.jpg"
+  },
+  "jp-itsukushima": {
+    "key": "sites/jp-itsukushima.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "redlegsfan21",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itsukushima_Shrine_Torii_Gate_(13890465459).jpg",
+    "file": "File:Itsukushima Shrine Torii Gate (13890465459).jpg"
+  },
+  "jp-iwami": {
+    "key": "sites/jp-iwami.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Naokijp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shimizudani_Refinery_Ruins_at_Iwami_Ginzan_Silver_Mine_001.jpg",
+    "file": "File:Shimizudani Refinery Ruins at Iwami Ginzan Silver Mine 001.jpg"
+  },
+  "jp-jomon": {
+    "key": "sites/jp-jomon.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg",
+    "file": "File:140913 Sannai-Maruyama site Aomori Japan01bs6bs6.jpg"
+  },
+  "jp-kii": {
+    "key": "sites/jp-kii.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Kansai explorer",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kumano-Nachi-shrine002.JPG",
+    "file": "File:Kumano-Nachi-shrine002.JPG"
+  },
+  "jp-kyoto": {
+    "key": "sites/jp-kyoto.jpg",
+    "width": 960,
+    "height": 641,
+    "credit": "Jordy Meow",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kiyomizu.jpg",
+    "file": "File:Kiyomizu.jpg"
+  },
+  "jp-meiji": {
+    "key": "sites/jp-meiji.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Flickr user: kntrty https://www.flickr.com/photos/kntrty/",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle-Ship_Island_Nagasaki_Japan.jpg",
+    "file": "File:Battle-Ship Island Nagasaki Japan.jpg"
+  },
+  "jp-mozu": {
+    "key": "sites/jp-mozu.jpg",
+    "width": 960,
+    "height": 1449,
+    "credit": "国土地理院",
+    "license": "Attribution",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mozu_Kofun_Group_Aerial_photograph_2007.jpg",
+    "file": "File:Mozu Kofun Group Aerial photograph 2007.jpg"
+  },
+  "jp-nara": {
+    "key": "sites/jp-nara.jpg",
+    "width": 960,
+    "height": 768,
+    "credit": "Wiiii",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:T%C5%8Ddai-ji_Kon-d%C5%8D.jpg",
+    "file": "File:Tōdai-ji Kon-dō.jpg"
+  },
+  "jp-nikko": {
+    "key": "sites/jp-nikko.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "663highland",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:200801_Nikko_Tosho-gu_Nikko_Japan03s3.jpg",
+    "file": "File:200801 Nikko Tosho-gu Nikko Japan03s3.jpg"
+  },
+  "jp-ogasawara": {
+    "key": "sites/jp-ogasawara.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Ootahara",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kominato_Beach_that_I_looked_at_from_the_Nakayama_Pass_in_Chichijima_Island,Ogasawara,Tokyo,Japan.jpg",
+    "file": "File:Kominato Beach that I looked at from the Nakayama Pass in Chichijima Island,Ogasawara,Tokyo,Japan.jpg"
+  },
+  "jp-okinoshima": {
+    "key": "sites/jp-okinoshima.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "そらみみ (Soramimi)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Honden_of_Munakata_Grand_Shrine_(Hetsu_Shrine).JPG",
+    "file": "File:Honden of Munakata Grand Shrine (Hetsu Shrine).JPG"
+  },
+  "jp-ryukyu": {
+    "key": "sites/jp-ryukyu.jpg",
+    "width": 960,
+    "height": 559,
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naha_Okinawa_Japan_Shuri-Castle-01.jpg",
+    "file": "File:Naha Okinawa Japan Shuri-Castle-01.jpg"
+  },
+  "jp-sado": {
+    "key": "sites/jp-sado.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Unknown author",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sado_gold_mountain.jpg",
+    "file": "File:Sado gold mountain.jpg"
+  },
+  "jp-sensen": {
+    "key": "sites/jp-sensen.jpg",
+    "width": 960,
+    "height": 1279,
+    "credit": "Houjyou-Minori",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oura_Cathedral_20180623.jpg",
+    "file": "File:Oura Cathedral 20180623.jpg"
+  },
+  "jp-shirakami": {
+    "key": "sites/jp-shirakami.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "らんで",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sirakami_santi.JPG",
+    "file": "File:Sirakami santi.JPG"
+  },
+  "jp-shirakawago": {
+    "key": "sites/jp-shirakawago.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ogi_Shirakawa-g%C5%8D,_Gifu,_Japan.jpg",
+    "file": "File:Ogi Shirakawa-gō, Gifu, Japan.jpg"
+  },
+  "jp-shiretoko": {
+    "key": "sites/jp-shiretoko.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "663highland",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:140829_Ichiko_of_Shiretoko_Goko_Lakes_Hokkaido_Japan02s5.jpg",
+    "file": "File:140829 Ichiko of Shiretoko Goko Lakes Hokkaido Japan02s5.jpg"
+  },
+  "jp-tomioka": {
+    "key": "sites/jp-tomioka.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "yellow bird woodstock from JAPAN",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%AF%8C%E5%B2%A1%E8%A3%BD%E7%B3%B8%E5%A0%B4%E3%83%BB%E7%B9%B0%E7%B3%B8%E5%A0%B4.jpg",
+    "file": "File:富岡製糸場・繰糸場.jpg"
+  },
+  "jp-yakushima": {
+    "key": "sites/jp-yakushima.jpg",
+    "width": 960,
+    "height": 1753,
+    "credit": "Σ64",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jomon_Sugi_07.jpg",
+    "file": "File:Jomon Sugi 07.jpg"
+  },
+  "kh-angkor": {
+    "key": "sites/kh-angkor.jpg",
+    "width": 960,
+    "height": 652,
+    "credit": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+    "file": "File:Angkor Wat.jpg"
+  },
+  "kh-preah-vihear": {
+    "key": "sites/kh-preah-vihear.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "PsamatheM",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:03_Prasat_Preah_Vihear-nX-06478.jpg",
+    "file": "File:03 Prasat Preah Vihear-nX-06478.jpg"
+  },
+  "kr-bulguksa": {
+    "key": "sites/kr-bulguksa.jpg",
+    "width": 960,
+    "height": 738,
+    "credit": "Unknown author Unknown author",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotus_Flower_Bridge_and_Seven_Treasure_Bridge_at_Bulguksa_in_Gyeongju,_Korea.jpg",
+    "file": "File:Lotus Flower Bridge and Seven Treasure Bridge at Bulguksa in Gyeongju, Korea.jpg"
+  },
+  "kr-changdeokgung": {
+    "key": "sites/kr-changdeokgung.jpg",
+    "width": 960,
+    "height": 662,
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changdeokgung_Seoul_3.jpg",
+    "file": "File:Changdeokgung Seoul 3.jpg"
+  },
+  "kr-haeinsa": {
+    "key": "sites/kr-haeinsa.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "한국교육방송공사",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%95%9C%EA%B5%AD_%EB%AC%B8%ED%99%94_%EC%97%AC%ED%96%89_%EC%9D%8C%EC%8B%9D_%ED%95%B4%EC%9D%B8%EC%82%AC003.jpg",
+    "file": "File:한국 문화 여행 음식 해인사003.jpg"
+  },
+  "kr-hwaseong": {
+    "key": "sites/kr-hwaseong.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Lance Vanlewen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hwaseong_Fortress,_Suwon,_Gyeonggi-do,_Republic_of_Korea_(2).jpg",
+    "file": "File:Hwaseong Fortress, Suwon, Gyeonggi-do, Republic of Korea (2).jpg"
+  },
+  "kr-jeju": {
+    "key": "sites/kr-jeju.jpg",
+    "width": 960,
+    "height": 625,
+    "credit": "Korea.net / Korean Culture and Information Service",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_from_the_air.jpg",
+    "file": "File:Seongsan Ilchulbong from the air.jpg"
+  },
+  "kr-jongmyo": {
+    "key": "sites/kr-jongmyo.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Bgag",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jongmyo_Shrine_03.jpg",
+    "file": "File:Jongmyo Shrine 03.jpg"
+  },
+  "la-luang": {
+    "key": "sites/la-luang.jpg",
+    "width": 960,
+    "height": 571,
+    "credit": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_Wat_Xieng_Thong_-_Luang_Prabang_-_Laos.jpg",
+    "file": "File:Temple Wat Xieng Thong - Luang Prabang - Laos.jpg"
+  },
+  "lb-baalbek": {
+    "key": "sites/lb-baalbek.jpg",
+    "width": 960,
+    "height": 718,
+    "credit": "Lodo from Moscow, Russia",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg",
+    "file": "File:Temple of Bacchus, Baalbek, Lebanon (49890013476).jpg"
+  },
+  "lk-galle": {
+    "key": "sites/lk-galle.jpg",
+    "width": 960,
+    "height": 719,
+    "credit": "Rovin Shanila",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Galle_Fort.jpg",
+    "file": "File:Galle Fort.jpg"
+  },
+  "lk-kandy": {
+    "key": "sites/lk-kandy.jpg",
+    "width": 960,
+    "height": 529,
+    "credit": "Pierre André Leclercq",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_the_Tooth,_Sitting_Buddha_statues.-_Kandy.jpg",
+    "file": "File:Temple of the Tooth, Sitting Buddha statues.- Kandy.jpg"
+  },
+  "lk-sigiriya": {
+    "key": "sites/lk-sigiriya.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Wrobell",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sigiriya_(141688197).jpeg",
+    "file": "File:Sigiriya (141688197).jpeg"
+  },
+  "lv-riga": {
+    "key": "sites/lv-riga.jpg",
+    "width": 960,
+    "height": 724,
+    "credit": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:House_of_Blackheads_at_Dusk_3,_Riga,_Latvia_-_Diliff.jpg",
+    "file": "File:House of Blackheads at Dusk 3, Riga, Latvia - Diliff.jpg"
+  },
+  "ly-leptis": {
+    "key": "sites/ly-leptis.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "joepyrek from Richmond, Va, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Leptis_Magna_(29)_(8288918733).jpg",
+    "file": "File:Leptis Magna (29) (8288918733).jpg"
+  },
+  "ma-aitbenhaddou": {
+    "key": "sites/ma-aitbenhaddou.jpg",
+    "width": 960,
+    "height": 594,
+    "credit": "Petar Milošević",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ksar_A%C3%AFt_Benhaddou,_Marocco_(%D8%A3%D9%8A%D8%AA_%D8%A8%D9%86_%D8%AD%D8%AF%D9%88%D8%8C_%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8,_%E2%B4%B0%E2%B5%A2%E2%B5%9C_%E2%B5%83%E2%B4%B0%E2%B4%B7%E2%B4%B7%E2%B5%93).jpg",
+    "file": "File:Ksar Aït Benhaddou, Marocco (أيت بن حدو، المغرب, ⴰⵢⵜ ⵃⴰⴷⴷⵓ).jpg"
+  },
+  "ma-fez": {
+    "key": "sites/ma-fez.jpg",
+    "width": 960,
+    "height": 767,
+    "credit": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fes_Bab_Bou_Jeloud_2011.jpg",
+    "file": "File:Fes Bab Bou Jeloud 2011.jpg"
+  },
+  "ma-marrakesh": {
+    "key": "sites/ma-marrakesh.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Boris Macek",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djemaa_el_Fna.jpg",
+    "file": "File:Djemaa el Fna.jpg"
+  },
+  "me-kotor": {
+    "key": "sites/me-kotor.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "User:Ggia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20090719_Crkva_Gospa_od_Zdravlja_Kotor_Bay_Montenegro.jpg",
+    "file": "File:20090719 Crkva Gospa od Zdravlja Kotor Bay Montenegro.jpg"
+  },
+  "mg-tsingy": {
+    "key": "sites/mg-tsingy.jpg",
+    "width": 960,
+    "height": 1311,
+    "credit": "My father (who approves of its use)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsingy_de_Bemaraha.jpg",
+    "file": "File:Tsingy de Bemaraha.jpg"
+  },
+  "mh-bikini": {
+    "key": "sites/mh-bikini.jpg",
+    "width": 960,
+    "height": 504,
+    "credit": "Original: United States Department of Defense (either the U.S. Army or the U.S. Navy ) Derivative work: Victorrocha (…",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Operation_Crossroads_Baker_Edit.jpg",
+    "file": "File:Operation Crossroads Baker Edit.jpg"
+  },
+  "ml-djenne": {
+    "key": "sites/ml-djenne.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Ruud Zwart",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djenne_great_mud_mosque.jpg",
+    "file": "File:Djenne great mud mosque.jpg"
+  },
+  "ml-timbuktu": {
+    "key": "sites/ml-timbuktu.jpg",
+    "width": 960,
+    "height": 1280,
+    "credit": "KaTeznik",
+    "license": "CC BY-SA 2.0 fr",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Djingareiber_cour.jpg",
+    "file": "File:Djingareiber cour.jpg"
+  },
+  "mm-bagan": {
+    "key": "sites/mm-bagan.jpg",
+    "width": 960,
+    "height": 628,
+    "credit": "Corto Maltese 1999",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bagan,_Burma.jpg",
+    "file": "File:Bagan, Burma.jpg"
+  },
+  "mt-hypogeum": {
+    "key": "sites/mt-hypogeum.jpg",
+    "width": 960,
+    "height": 629,
+    "credit": "Richard Ellis",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Photo_Ellis_Hal_Salflieni.jpg",
+    "file": "File:Photo Ellis Hal Salflieni.jpg"
+  },
+  "mt-valletta": {
+    "key": "sites/mt-valletta.jpg",
+    "width": 960,
+    "height": 512,
+    "credit": "Mandyy88",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:St_Sebastian_Curtain_(cropped).jpg",
+    "file": "File:St Sebastian Curtain (cropped).jpg"
+  },
+  "mx-barragan": {
+    "key": "sites/mx-barragan.jpg",
+    "width": 960,
+    "height": 1280,
+    "credit": "Francesco Bandarin",
+    "license": "CC BY-SA 3.0 igo",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Luis_Barrag%C3%A1n_House_and_Studio-115242.jpg",
+    "file": "File:Luis Barragán House and Studio-115242.jpg"
+  },
+  "mx-chichen": {
+    "key": "sites/mx-chichen.jpg",
+    "width": 960,
+    "height": 511,
+    "credit": "Daniel Schwen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+    "file": "File:Chichen Itza 3.jpg"
+  },
+  "mx-guanajuato": {
+    "key": "sites/mx-guanajuato.jpg",
+    "width": 960,
+    "height": 643,
+    "credit": "Carlos ZGZ",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_a%C3%A9rea_de_Guanajuato.jpg",
+    "file": "File:Vista aérea de Guanajuato.jpg"
+  },
+  "mx-mexicocity": {
+    "key": "sites/mx-mexicocity.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Ulisesmorales",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Catedral_y_Sagrario_Metropolitano_33.jpg",
+    "file": "File:Catedral y Sagrario Metropolitano 33.jpg"
+  },
+  "mx-palenque": {
+    "key": "sites/mx-palenque.jpg",
+    "width": 960,
+    "height": 1911,
+    "credit": "Ricraider",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palenque_Collage.jpg",
+    "file": "File:Palenque Collage.jpg"
+  },
+  "mx-teotihuacan": {
+    "key": "sites/mx-teotihuacan.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Hdlrosa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:ZA77_Teotihuac%C3%A1n_edo_de_mex_Herberto_de_la_rosa.jpg",
+    "file": "File:ZA77 Teotihuacán edo de mex Herberto de la rosa.jpg"
+  },
+  "mx-tequila": {
+    "key": "sites/mx-tequila.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Stan Shebs",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agave_tequilana_1.jpg",
+    "file": "File:Agave tequilana 1.jpg"
+  },
+  "my-kinabalu": {
+    "key": "sites/my-kinabalu.jpg",
+    "width": 960,
+    "height": 373,
+    "credit": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_2.jpg",
+    "file": "File:Kinabalu Sabah Borneo Kampong Kundasang panorama 2.jpg"
+  },
+  "my-malacca": {
+    "key": "sites/my-malacca.jpg",
+    "width": 960,
+    "height": 1280,
+    "credit": "T0lk",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Firstchurchmelaka.JPG",
+    "file": "File:Firstchurchmelaka.JPG"
+  },
+  "na-namib": {
+    "key": "sites/na-namib.jpg",
+    "width": 960,
+    "height": 573,
+    "credit": "Daniel Kraft",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sossusvlei_Dune_Rippled_cropped.jpg",
+    "file": "File:Sossusvlei Dune Rippled cropped.jpg"
+  },
+  "nl-amsterdam": {
+    "key": "sites/nl-amsterdam.png",
+    "width": 960,
+    "height": 640,
+    "credit": "Andrés Barrios",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png",
+    "file": "File:Imagen de los canales concéntricos en Ámsterdam.png"
+  },
+  "nl-kinderdijk": {
+    "key": "sites/nl-kinderdijk.jpg",
+    "width": 960,
+    "height": 719,
+    "credit": "Lucas Hirschegger",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:KinderdijkMolens02.jpg",
+    "file": "File:KinderdijkMolens02.jpg"
+  },
+  "nl-rietveld": {
+    "key": "sites/nl-rietveld.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "User:Husky",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG",
+    "file": "File:Rietveld Schröderhuis HayKranen-20.JPG"
+  },
+  "no-bryggen": {
+    "key": "sites/no-bryggen.jpg",
+    "width": 960,
+    "height": 494,
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bryggen,_Bergen,_Noruega,_2019-09-08,_DD_115-117_PAN.jpg",
+    "file": "File:Bryggen, Bergen, Noruega, 2019-09-08, DD 115-117 PAN.jpg"
+  },
+  "no-fjords": {
+    "key": "sites/no-fjords.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Andreas Trepte",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geirangerfjord_.jpg",
+    "file": "File:Geirangerfjord .jpg"
+  },
+  "no-urnes": {
+    "key": "sites/no-urnes.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Leo-setä",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Urnes_Stave_Church_1.jpg",
+    "file": "File:Urnes Stave Church 1.jpg"
+  },
+  "np-kathmandu": {
+    "key": "sites/np-kathmandu.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Artha at English Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basantapurpalace.JPG",
+    "file": "File:Basantapurpalace.JPG"
+  },
+  "np-lumbini": {
+    "key": "sites/np-lumbini.jpg",
+    "width": 960,
+    "height": 503,
+    "credit": "Bibek Raj Pandeya",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:BRP_Lumbini_Mayadevi_temple.jpg",
+    "file": "File:BRP Lumbini Mayadevi temple.jpg"
+  },
+  "np-sagarmatha": {
+    "key": "sites/np-sagarmatha.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Rdevany",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+    "file": "File:Mt. Everest from Gokyo Ri November 5, 2012.jpg"
+  },
+  "nz-tewahipounamu": {
+    "key": "sites/nz-tewahipounamu.jpg",
+    "width": 960,
+    "height": 348,
+    "credit": "Maros M r a z ( Maros )",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Milford_Sound_(New_Zealand).JPG",
+    "file": "File:Milford Sound (New Zealand).JPG"
+  },
+  "nz-tongariro": {
+    "key": "sites/nz-tongariro.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Eusebius",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Ngauruhoe_et_le_Ruapehu_vus_du_sommet_du_Tongariro.jpg",
+    "file": "File:Le Ngauruhoe et le Ruapehu vus du sommet du Tongariro.jpg"
+  },
+  "om-oryx": {
+    "key": "sites/om-oryx.jpg",
+    "width": 960,
+    "height": 827,
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arabian_oryx_(oryx_leucoryx).jpg",
+    "file": "File:Arabian oryx (oryx leucoryx).jpg"
+  },
+  "pe-chanchan": {
+    "key": "sites/pe-chanchan.jpg",
+    "width": 960,
+    "height": 642,
+    "credit": "Håkan Svensson",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chan_chan_view1.jpg",
+    "file": "File:Chan chan view1.jpg"
+  },
+  "pe-cusco": {
+    "key": "sites/pe-cusco.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "tomscoffin",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Vista_Calle_Suecia.jpg",
+    "file": "File:Vista Calle Suecia.jpg"
+  },
+  "pe-machu-picchu": {
+    "key": "sites/pe-machu-picchu.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Draceane",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+    "file": "File:Machu Picchu, 2023 (012).jpg"
+  },
+  "pe-nazca": {
+    "key": "sites/pe-nazca.jpg",
+    "width": 960,
+    "height": 639,
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%C3%ADneas_de_Nazca,_Nazca,_Per%C3%BA,_2015-07-29,_DD_49.JPG",
+    "file": "File:Líneas de Nazca, Nazca, Perú, 2015-07-29, DD 49.JPG"
+  },
+  "ph-baroque": {
+    "key": "sites/ph-baroque.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "Luzviminda7641",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paoay_Church_and_Bell_Tower.jpg",
+    "file": "File:Paoay Church and Bell Tower.jpg"
+  },
+  "ph-puerto": {
+    "key": "sites/ph-puerto.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Ron Van Oers",
+    "license": "CC BY-SA 3.0 igo",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/igo/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Puerto-Princesa_Subterranean_River_National_Park-112012.jpg",
+    "file": "File:Puerto-Princesa Subterranean River National Park-112012.jpg"
+  },
+  "ph-rice": {
+    "key": "sites/ph-rice.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "User: (WT-shared) Roundtheworld at wts wikivoyage",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banaue-terrace.JPG",
+    "file": "File:Banaue-terrace.JPG"
+  },
+  "pk-lahore": {
+    "key": "sites/pk-lahore.jpg",
+    "width": 960,
+    "height": 703,
+    "credit": "Rohaan Bhatti",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lahore_Fort_view_from_Baradari.jpg",
+    "file": "File:Lahore Fort view from Baradari.jpg"
+  },
+  "pk-mohenjo": {
+    "key": "sites/pk-mohenjo.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Saqib Qayyum",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mohenjodaro_-_view_of_the_stupa_mound.JPG",
+    "file": "File:Mohenjodaro - view of the stupa mound.JPG"
+  },
+  "pl-auschwitz": {
+    "key": "sites/pl-auschwitz.jpg",
+    "width": 960,
+    "height": 643,
+    "credit": "File:Auschwitz I (22 May 2010).jpg : xiquinhosilva derivative work: Georgfotoart",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Auschwitz_I_(22_May_2010)_b.jpg",
+    "file": "File:Auschwitz I (22 May 2010) b.jpg"
+  },
+  "pl-bialowieza": {
+    "key": "sites/pl-bialowieza.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Charles J. Sharp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:European_bison_(Bison_bonasus)_male_Bia%C5%82owieza.jpg",
+    "file": "File:European bison (Bison bonasus) male Białowieza.jpg"
+  },
+  "pl-krakow": {
+    "key": "sites/pl-krakow.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Monika Towiańska",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wawel_(4).jpg",
+    "file": "File:Wawel (4).jpg"
+  },
+  "pl-warsaw": {
+    "key": "sites/pl-warsaw.jpg",
+    "width": 960,
+    "height": 630,
+    "credit": "Adrian Grycuk",
+    "license": "CC BY-SA 3.0 pl",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/pl/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Warsaw_Old_Town_Market_Square_10.JPG",
+    "file": "File:Warsaw Old Town Market Square 10.JPG"
+  },
+  "pl-wieliczka": {
+    "key": "sites/pl-wieliczka.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "C messier",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%CE%91%CE%BB%CE%B1%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CE%B1_%CE%92%CE%B9%CE%B5%CE%BB%CE%AF%CF%84%CF%83%CE%BA%CE%B1_5021.jpg",
+    "file": "File:Αλατωρυχεία Βιελίτσκα 5021.jpg"
+  },
+  "pt-jeronimos": {
+    "key": "sites/pt-jeronimos.jpg",
+    "width": 960,
+    "height": 916,
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Torre_Bel%C3%A9m_April_2009-4a.jpg",
+    "file": "File:Torre Belém April 2009-4a.jpg"
+  },
+  "pt-porto": {
+    "key": "sites/pt-porto.jpg",
+    "width": 960,
+    "height": 731,
+    "credit": "Deensel",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dom_Lu%C3%ADs_I_Bridge_(36961760686).jpg",
+    "file": "File:Dom Luís I Bridge (36961760686).jpg"
+  },
+  "pt-sintra": {
+    "key": "sites/pt-sintra.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "CEphoto, Uwe Aranas",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sintra_Portugal_Pal%C3%A1cio_da_Pena-01.jpg",
+    "file": "File:Sintra Portugal Palácio da Pena-01.jpg"
+  },
+  "pw-rockislands": {
+    "key": "sites/pw-rockislands.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Luka Peternel",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ngerukewid-2016-aerial-view-Luka-Peternel.jpg",
+    "file": "File:Ngerukewid-2016-aerial-view-Luka-Peternel.jpg"
+  },
+  "ru-baikal": {
+    "key": "sites/ru-baikal.jpg",
+    "width": 960,
+    "height": 1242,
+    "credit": "Jacques Descloitres, MODIS Land Rapid Response Team, NASA/GSFC",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baikal.A2001296.0420.250m-NASA.jpg",
+    "file": "File:Baikal.A2001296.0420.250m-NASA.jpg"
+  },
+  "ru-kamchatka": {
+    "key": "sites/ru-kamchatka.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Tamten at cs.wikipedia",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Klju%C4%8Devskaja_za_v%C3%BDchodu_slunce.jpg",
+    "file": "File:Ključevskaja za východu slunce.jpg"
+  },
+  "ru-kizhi": {
+    "key": "sites/ru-kizhi.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Alexxx1979",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kizhi_Pogost_P7114012_2200.jpg",
+    "file": "File:Kizhi Pogost P7114012 2200.jpg"
+  },
+  "ru-kremlin": {
+    "key": "sites/ru-kremlin.jpg",
+    "width": 960,
+    "height": 1065,
+    "credit": "Tsy1980",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_Moscow.jpg",
+    "file": "File:Saint Basil's Cathedral in Moscow.jpg"
+  },
+  "ru-stpetersburg": {
+    "key": "sites/ru-stpetersburg.jpg",
+    "width": 960,
+    "height": 570,
+    "credit": "Godot13",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RUS-2016-Aerial-SPB-Winter_Palace_(crop).jpg",
+    "file": "File:RUS-2016-Aerial-SPB-Winter Palace (crop).jpg"
+  },
+  "sa-hegra": {
+    "key": "sites/sa-hegra.jpg",
+    "width": 960,
+    "height": 641,
+    "credit": "Following Hadrian",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:27,_Hegra_(Mada%27in_Salih),_Saudi_Arabia.jpg",
+    "file": "File:27, Hegra (Mada'in Salih), Saudi Arabia.jpg"
+  },
+  "se-drottningholm": {
+    "key": "sites/se-drottningholm.jpg",
+    "width": 960,
+    "height": 1334,
+    "credit": "Holger.Ellgaard",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drottningholm_kollage_2011abc.jpg",
+    "file": "File:Drottningholm kollage 2011abc.jpg"
+  },
+  "se-laponia": {
+    "key": "sites/se-laponia.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Grapetonix",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pierikpakte_in_Sarek.jpg",
+    "file": "File:Pierikpakte in Sarek.jpg"
+  },
+  "sg-botanic": {
+    "key": "sites/sg-botanic.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Velela",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Symphony_Lake,_Singapore_Botanic_Gardens_-_20041025.jpg",
+    "file": "File:Symphony Lake, Singapore Botanic Gardens - 20041025.jpg"
+  },
+  "sn-goree": {
+    "key": "sites/sn-goree.jpg",
+    "width": 960,
+    "height": 721,
+    "credit": "Gregor Rom",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ile-de-goree.jpg",
+    "file": "File:Ile-de-goree.jpg"
+  },
+  "sy-damascus": {
+    "key": "sites/sy-damascus.jpg",
+    "width": 960,
+    "height": 645,
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umayyad_Mosque,_Damascus.jpg",
+    "file": "File:Umayyad Mosque, Damascus.jpg"
+  },
+  "sy-palmyra": {
+    "key": "sites/sy-palmyra.jpg",
+    "width": 960,
+    "height": 648,
+    "credit": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Palmyra_03.jpg",
+    "file": "File:Palmyra 03.jpg"
+  },
+  "th-ayutthaya": {
+    "key": "sites/th-ayutthaya.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Christophe95",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ayutthaya_World_Heritage_sign.jpg",
+    "file": "File:Ayutthaya World Heritage sign.jpg"
+  },
+  "th-sukhothai": {
+    "key": "sites/th-sukhothai.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Khunkay",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wat_srichum_03.jpg",
+    "file": "File:Wat srichum 03.jpg"
+  },
+  "tn-carthage": {
+    "key": "sites/tn-carthage.png",
+    "width": 960,
+    "height": 1122,
+    "credit": "ELEL09 , montage",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Montage_ville_de_Carthage.png",
+    "file": "File:Montage ville de Carthage.png"
+  },
+  "tn-eljem": {
+    "key": "sites/tn-eljem.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Carole Raddato",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Amphitheatre_of_El_Jem,_built_around_AD_238_in_Thysdrus_in_Africa_Proconsularis,_the_estimated_capacity_is_35,000,_Tunisia_-_52717762494.jpg",
+    "file": "File:The Amphitheatre of El Jem, built around AD 238 in Thysdrus in Africa Proconsularis, the estimated capacity is 35,000, Tunisia - 52717762494.jpg"
+  },
+  "tr-gobekli": {
+    "key": "sites/tr-gobekli.jpg",
+    "width": 960,
+    "height": 638,
+    "credit": "Teomancimit",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:G%C3%B6bekli_Tepe,_Urfa.jpg",
+    "file": "File:Göbekli Tepe, Urfa.jpg"
+  },
+  "tr-goreme": {
+    "key": "sites/tr-goreme.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Arian Zwegers from Brussels, Belgium",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg",
+    "file": "File:Cappadocia balloon trip, Ortahisar Castle (11893715185).jpg"
+  },
+  "tr-istanbul": {
+    "key": "sites/tr-istanbul.jpg",
+    "width": 960,
+    "height": 580,
+    "credit": "Adli Wahid",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg",
+    "file": "File:Hagia Sophia (228968325).jpeg"
+  },
+  "tr-pamukkale": {
+    "key": "sites/tr-pamukkale.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Biologg",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pamukkale,_Denizli_2026_68.jpg",
+    "file": "File:Pamukkale, Denizli 2026 68.jpg"
+  },
+  "tr-safranbolu": {
+    "key": "sites/tr-safranbolu.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Ray Swi-hymn",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:20180107_Safranbolu_1945_(39101010504).jpg",
+    "file": "File:20180107 Safranbolu 1945 (39101010504).jpg"
+  },
+  "tr-troy": {
+    "key": "sites/tr-troy.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "CherryX",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walls_of_Troy_(2).jpg",
+    "file": "File:Walls of Troy (2).jpg"
+  },
+  "tz-kilimanjaro": {
+    "key": "sites/tz-kilimanjaro.jpg",
+    "width": 960,
+    "height": 642,
+    "credit": "Sergey Pesterev",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kilimanjaro_from_Amboseli.jpg",
+    "file": "File:Kilimanjaro from Amboseli.jpg"
+  },
+  "tz-ngorongoro": {
+    "key": "sites/tz-ngorongoro.jpg",
+    "width": 960,
+    "height": 540,
+    "credit": "Grahampurse",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ngorongoro-1001-2.jpg",
+    "file": "File:Ngorongoro-1001-2.jpg"
+  },
+  "tz-serengeti": {
+    "key": "sites/tz-serengeti.jpg",
+    "width": 960,
+    "height": 553,
+    "credit": "Bjørn Christian Tørrissen",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Serengeti-Landscape-2012.JPG",
+    "file": "File:Serengeti-Landscape-2012.JPG"
+  },
+  "tz-zanzibar": {
+    "key": "sites/tz-zanzibar.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "No machine-readable author provided. Mbz1 assumed (based on copyright claims).",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Zanzibar_sultan_palace.jpg",
+    "file": "File:Zanzibar sultan palace.jpg"
+  },
+  "ua-kyiv": {
+    "key": "sites/ua-kyiv.jpg",
+    "width": 960,
+    "height": 721,
+    "credit": "Rbrechko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:80-391-0151_Kyiv_St.Sophia%27s_Cathedral_RB_18_2_(cropped).jpg",
+    "file": "File:80-391-0151 Kyiv St.Sophia's Cathedral RB 18 2 (cropped).jpg"
+  },
+  "us-everglades": {
+    "key": "sites/us-everglades.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Everglades NPS from Homestead, Florida, United States",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sunset_over_the_River_of_Grass,_NPSphoto,_G.Gardner_(9255157507).jpg",
+    "file": "File:Sunset over the River of Grass, NPSphoto, G.Gardner (9255157507).jpg"
+  },
+  "us-grandcanyon": {
+    "key": "sites/us-grandcanyon.jpg",
+    "width": 960,
+    "height": 616,
+    "credit": "Lennart Sikkema",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg",
+    "file": "File:Canyon River Tree (165872763).jpeg"
+  },
+  "us-hawaii": {
+    "key": "sites/us-hawaii.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "USGS/K. Lynn",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Episode_4_of_Kilauea%27s_December_2024_eruption_2025-01-16.jpg",
+    "file": "File:Episode 4 of Kilauea's December 2024 eruption 2025-01-16.jpg"
+  },
+  "us-independence": {
+    "key": "sites/us-independence.jpg",
+    "width": 960,
+    "height": 722,
+    "credit": "Rdsmith4",
+    "license": "CC BY-SA 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Independence_Hall.jpg",
+    "file": "File:Independence Hall.jpg"
+  },
+  "us-liberty": {
+    "key": "sites/us-liberty.jpg",
+    "width": 960,
+    "height": 1471,
+    "credit": "AskALotl",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg",
+    "file": "File:Front view of Statue of Liberty (cropped).jpg"
+  },
+  "us-mesaverde": {
+    "key": "sites/us-mesaverde.jpg",
+    "width": 960,
+    "height": 547,
+    "credit": "Tobi 87",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cliff_Palace-Colorado-Mesa_Verde_NP.jpg",
+    "file": "File:Cliff Palace-Colorado-Mesa Verde NP.jpg"
+  },
+  "us-taos": {
+    "key": "sites/us-taos.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "John Mackenzie Burke",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taos_Pueblo_2017-05-05.jpg",
+    "file": "File:Taos Pueblo 2017-05-05.jpg"
+  },
+  "us-wright": {
+    "key": "sites/us-wright.jpg",
+    "width": 960,
+    "height": 630,
+    "credit": "lachrimae72",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fallingwater3.jpg",
+    "file": "File:Fallingwater3.jpg"
+  },
+  "us-yellowstone": {
+    "key": "sites/us-yellowstone.jpg",
+    "width": 960,
+    "height": 680,
+    "credit": "Carsten Steger",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Grand_Prismatic_Spring_(view_from_the_south).jpg",
+    "file": "File:Aerial image of Grand Prismatic Spring (view from the south).jpg"
+  },
+  "us-yosemite": {
+    "key": "sites/us-yosemite.jpg",
+    "width": 960,
+    "height": 905,
+    "credit": "Thomas Wolf , www.foto-tw.de",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Half_Dome_with_Eastern_Yosemite_Valley_(Zuschnitt).jpg",
+    "file": "File:Half Dome with Eastern Yosemite Valley (Zuschnitt).jpg"
+  },
+  "uz-bukhara": {
+    "key": "sites/uz-bukhara.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Официальный веб-сайт Агентства культурного наследия Республики Узбекистан",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poi_Kalon.jpg",
+    "file": "File:Poi Kalon.jpg"
+  },
+  "uz-khiva": {
+    "key": "sites/uz-khiva.jpg",
+    "width": 960,
+    "height": 581,
+    "credit": "Bgag",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Islam_Khodja_Madrasa_01.jpg",
+    "file": "File:Islam Khodja Madrasa 01.jpg"
+  },
+  "uz-samarkand": {
+    "key": "sites/uz-samarkand.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Registan_-_Gusjer.jpg : Gustavo Jeronimo from Aranjuez, Spain derivative work: MrPanyGoff",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:RegistanSquare_Samarkand.jpg",
+    "file": "File:RegistanSquare Samarkand.jpg"
+  },
+  "va-vatican": {
+    "key": "sites/va-vatican.jpg",
+    "width": 960,
+    "height": 501,
+    "credit": "Alvesgaspar",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg",
+    "file": "File:Basilica di San Pietro in Vaticano September 2015-1a.jpg"
+  },
+  "ve-canaima": {
+    "key": "sites/ve-canaima.jpg",
+    "width": 960,
+    "height": 974,
+    "credit": "Berrucomons",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salto_Angel_Dry_Season.jpg",
+    "file": "File:Salto Angel Dry Season.jpg"
+  },
+  "vn-halong": {
+    "key": "sites/vn-halong.jpg",
+    "width": 960,
+    "height": 673,
+    "credit": "Taewangkorea",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg",
+    "file": "File:Ha Long Bay in 2019.jpg"
+  },
+  "vn-hoian": {
+    "key": "sites/vn-hoian.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Chainwit.",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:2024_H%E1%BB%99i_An_-_Japanese_Covered_Bridge_(Ch%C3%B9a_C%E1%BA%A7u)_after_renovation_-_img_11.jpg",
+    "file": "File:2024 Hội An - Japanese Covered Bridge (Chùa Cầu) after renovation - img 11.jpg"
+  },
+  "vn-hue": {
+    "key": "sites/vn-hue.jpg",
+    "width": 960,
+    "height": 566,
+    "credit": "NguyenThanhBac123",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BA%A1i_n%E1%BB%99i.jpg",
+    "file": "File:Đại nội.jpg"
+  },
+  "vn-phongnha": {
+    "key": "sites/vn-phongnha.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "Genghiskhanviet",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Phongnhakebang6.jpg",
+    "file": "File:Phongnhakebang6.jpg"
+  },
+  "vn-trangan": {
+    "key": "sites/vn-trangan.jpg",
+    "width": 960,
+    "height": 627,
+    "credit": "Kien1980v ( thảo luận )",
+    "license": "Public domain",
+    "licenseUrl": null,
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Muaxuantamcoc.jpg",
+    "file": "File:Muaxuantamcoc.jpg"
+  },
+  "ye-sanaa": {
+    "key": "sites/ye-sanaa.jpg",
+    "width": 960,
+    "height": 720,
+    "credit": "ai@ce",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:San%27a03_flickr.jpg",
+    "file": "File:San'a03 flickr.jpg"
+  },
+  "ye-shibam": {
+    "key": "sites/ye-shibam.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Bkar6190",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%B4%D8%A8%D8%A7%D9%85_%D8%AD%D8%B6%D8%B1%D9%85%D9%88%D8%AA.jpg",
+    "file": "File:مدينة شبام حضرموت.jpg"
+  },
+  "za-robben": {
+    "key": "sites/za-robben.jpg",
+    "width": 960,
+    "height": 743,
+    "credit": "South African Tourism from South Africa",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Robben_Island_-_Cape_Town,_South_Africa_(3883849594).jpg",
+    "file": "File:Robben Island - Cape Town, South Africa (3883849594).jpg"
+  },
+  "zw-greatzimbabwe": {
+    "key": "sites/zw-greatzimbabwe.jpg",
+    "width": 960,
+    "height": 640,
+    "credit": "Andrew Moore from Johannesburg, South Africa",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conical_Tower_-_Great_Enclosure_III_(33736918448).jpg",
+    "file": "File:Conical Tower - Great Enclosure III (33736918448).jpg"
+  },
+  "zw-victoria": {
+    "key": "sites/zw-victoria.jpg",
+    "width": 960,
+    "height": 1492,
+    "credit": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+    "file": "File:Cataratas Victoria, Zambia-Zimbabue, 2018-07-27, DD 04.jpg"
+  }
+}

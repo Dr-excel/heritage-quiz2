@@ -1,0 +1,19 @@
+node_modules/
+.next/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# Cloudflare / wrangler
+.wrangler/
+.dev.vars
+.dev.vars.*
+!.dev.vars.example
+.env
+.env.*
+
+# 画像本体は Git に含めず R2 にだけ置く（メタデータは content/images.json で管理）
+images-cache/
+
+# 生成物
+seed/seed.sql
